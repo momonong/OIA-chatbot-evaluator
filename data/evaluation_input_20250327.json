@@ -1,0 +1,5462 @@
+[
+  {
+    "user": "Cccc",
+    "datetime": "2025-03-21T00:27:01",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hello"
+      },
+      {
+        "role": "assistant",
+        "message": "你好，有什麼我可以幫你的嗎？"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "Cccc",
+    "datetime": "2025-03-21T00:27:32",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hello"
+      },
+      {
+        "role": "assistant",
+        "message": "你好，有什麼我可以幫你的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "我想要辦理一般工作證"
+      },
+      {
+        "role": "assistant",
+        "message": "為了申請一般工作證，你需要按照以下步驟進行：\n\n1. 連結至申辦網：https://ezwp.wda.gov.tw\n2. 申請新帳號並登入。\n3. 新增申請案件，選擇「工作許可」。\n4. 輸入申請書資料並繳納審查費用，可以選擇ATM繳費或郵局繳費。\n5. 上傳所需文件：\n   - 學生證正反面影本\n   - 有效期間的護照影本\n   - 有效期間的居留證正反面影本\n   - 學校要求的其他文件\n6. 送學校審核，請隨時上系統查看案件狀態。\n7. 審核完成後，將會得到附有QR code的通知信，這即為電子版的工作證。\n\n如果在申請過程中遇到問題，建議聯繫國際處境外生與學人事務組【6:2†source】【6:3†source】【6:4†source】。"
+      }
+    ],
+    "target_turn": 2
+  },
+  {
+    "user": "Cccc",
+    "datetime": "2025-03-21T00:28:37",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hello"
+      },
+      {
+        "role": "assistant",
+        "message": "你好，有什麼我可以幫你的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "我想要辦理一般工作證"
+      },
+      {
+        "role": "assistant",
+        "message": "為了申請一般工作證，你需要按照以下步驟進行：\n\n1. 連結至申辦網：https://ezwp.wda.gov.tw\n2. 申請新帳號並登入。\n3. 新增申請案件，選擇「工作許可」。\n4. 輸入申請書資料並繳納審查費用，可以選擇ATM繳費或郵局繳費。\n5. 上傳所需文件：\n   - 學生證正反面影本\n   - 有效期間的護照影本\n   - 有效期間的居留證正反面影本\n   - 學校要求的其他文件\n6. 送學校審核，請隨時上系統查看案件狀態。\n7. 審核完成後，將會得到附有QR code的通知信，這即為電子版的工作證。\n\n如果在申請過程中遇到問題，建議聯繫國際處境外生與學人事務組【6:2†source】【6:3†source】【6:4†source】。"
+      },
+      {
+        "role": "user",
+        "message": "我剛來台灣，會有什麼限制嗎"
+      },
+      {
+        "role": "assistant",
+        "message": "你剛來台灣時，可能會有以下一些限制：\n\n1. 工時限制：學生工作證每星期工時不得超過20小時，寒暑假例外。\n2. 居留證件：你需要持有有效的居留證，並且在到期前續辦。\n3. 醫療保險：你需要申請並參加台灣的醫療保險計畫，以確保在遊學期間有醫療保障。\n4. 語言障礙：如果你不熟悉中文，可能會在日常生活及學業上遇到語言上的挑戰。\n5. 簽證與合法居留：必須持有合法的學生簽證，並且按時更新簽證和其他相關證件，以保持合法的居留身份。\n\n具體的限制和要求可能會依你的身份和學校規定而有所不同，建議你諮詢學校的國際處境外生與學人事務組以獲得詳細的資訊。"
+      }
+    ],
+    "target_turn": 4
+  },
+  {
+    "user": "Cccc",
+    "datetime": "2025-03-21T00:29:37",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hello"
+      },
+      {
+        "role": "assistant",
+        "message": "你好，有什麼我可以幫你的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "我想要辦理一般工作證"
+      },
+      {
+        "role": "assistant",
+        "message": "為了申請一般工作證，你需要按照以下步驟進行：\n\n1. 連結至申辦網：https://ezwp.wda.gov.tw\n2. 申請新帳號並登入。\n3. 新增申請案件，選擇「工作許可」。\n4. 輸入申請書資料並繳納審查費用，可以選擇ATM繳費或郵局繳費。\n5. 上傳所需文件：\n   - 學生證正反面影本\n   - 有效期間的護照影本\n   - 有效期間的居留證正反面影本\n   - 學校要求的其他文件\n6. 送學校審核，請隨時上系統查看案件狀態。\n7. 審核完成後，將會得到附有QR code的通知信，這即為電子版的工作證。\n\n如果在申請過程中遇到問題，建議聯繫國際處境外生與學人事務組【6:2†source】【6:3†source】【6:4†source】。"
+      },
+      {
+        "role": "user",
+        "message": "我剛來台灣，會有什麼限制嗎"
+      },
+      {
+        "role": "assistant",
+        "message": "你剛來台灣時，可能會有以下一些限制：\n\n1. 工時限制：學生工作證每星期工時不得超過20小時，寒暑假例外。\n2. 居留證件：你需要持有有效的居留證，並且在到期前續辦。\n3. 醫療保險：你需要申請並參加台灣的醫療保險計畫，以確保在遊學期間有醫療保障。\n4. 語言障礙：如果你不熟悉中文，可能會在日常生活及學業上遇到語言上的挑戰。\n5. 簽證與合法居留：必須持有合法的學生簽證，並且按時更新簽證和其他相關證件，以保持合法的居留身份。\n\n具體的限制和要求可能會依你的身份和學校規定而有所不同，建議你諮詢學校的國際處境外生與學人事務組以獲得詳細的資訊。"
+      },
+      {
+        "role": "user",
+        "message": "申請需要花多久時間才可以領到"
+      },
+      {
+        "role": "assistant",
+        "message": "一般申請工作證如沒有任何問題或需要補件的情況下，大約需兩個星期（工作天）完成審核。如果選擇電子版本的工作證，可以直接從網上下載。如果選擇紙本郵寄，則會寄送到學校的境外生與學人事務組，並由他們通知你前去領取【12:0†source】。"
+      }
+    ],
+    "target_turn": 6
+  },
+  {
+    "user": "Cccc",
+    "datetime": "2025-03-24T16:17:38",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hello"
+      },
+      {
+        "role": "assistant",
+        "message": "你好，有什麼我可以幫你的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "我想要辦理一般工作證"
+      },
+      {
+        "role": "assistant",
+        "message": "為了申請一般工作證，你需要按照以下步驟進行：\n\n1. 連結至申辦網：https://ezwp.wda.gov.tw\n2. 申請新帳號並登入。\n3. 新增申請案件，選擇「工作許可」。\n4. 輸入申請書資料並繳納審查費用，可以選擇ATM繳費或郵局繳費。\n5. 上傳所需文件：\n   - 學生證正反面影本\n   - 有效期間的護照影本\n   - 有效期間的居留證正反面影本\n   - 學校要求的其他文件\n6. 送學校審核，請隨時上系統查看案件狀態。\n7. 審核完成後，將會得到附有QR code的通知信，這即為電子版的工作證。\n\n如果在申請過程中遇到問題，建議聯繫國際處境外生與學人事務組【6:2†source】【6:3†source】【6:4†source】。"
+      },
+      {
+        "role": "user",
+        "message": "我剛來台灣，會有什麼限制嗎"
+      },
+      {
+        "role": "assistant",
+        "message": "你剛來台灣時，可能會有以下一些限制：\n\n1. 工時限制：學生工作證每星期工時不得超過20小時，寒暑假例外。\n2. 居留證件：你需要持有有效的居留證，並且在到期前續辦。\n3. 醫療保險：你需要申請並參加台灣的醫療保險計畫，以確保在遊學期間有醫療保障。\n4. 語言障礙：如果你不熟悉中文，可能會在日常生活及學業上遇到語言上的挑戰。\n5. 簽證與合法居留：必須持有合法的學生簽證，並且按時更新簽證和其他相關證件，以保持合法的居留身份。\n\n具體的限制和要求可能會依你的身份和學校規定而有所不同，建議你諮詢學校的國際處境外生與學人事務組以獲得詳細的資訊。"
+      },
+      {
+        "role": "user",
+        "message": "申請需要花多久時間才可以領到"
+      },
+      {
+        "role": "assistant",
+        "message": "一般申請工作證如沒有任何問題或需要補件的情況下，大約需兩個星期（工作天）完成審核。如果選擇電子版本的工作證，可以直接從網上下載。如果選擇紙本郵寄，則會寄送到學校的境外生與學人事務組，並由他們通知你前去領取【12:0†source】。"
+      },
+      {
+        "role": "user",
+        "message": "電子檔怎麼拿到"
+      },
+      {
+        "role": "assistant",
+        "message": "當你申請的工作證審核通過後，你會收到一封附有QR code的通知信，這封信即為電子版的工作證。你可以直接下載並保存這封信的電子檔，這樣便可在需要時出示或列印使用。"
+      }
+    ],
+    "target_turn": 8
+  },
+  {
+    "user": "任雅楠 Piyanan Rattanajan",
+    "datetime": "2025-03-24T15:11:56",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hello,\n\nI heard that on March 21, all international students had already received their scholarships, but I have not received mine for both February and March. I would like to know what the issue is. Was there any mistake with my documents?"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff for assistance with your scholarship issue."
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "凌允信 Gabriel Lin Yiun Xin",
+    "datetime": "2025-03-26T10:43:57",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "您好，我換了新的護照和居留證，請問我需要向您更新我的資料嗎？"
+      },
+      {
+        "role": "assistant",
+        "message": "您好，建議您向國際事務處的工作人員詢問是否需要更新您的資料。"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "劉正延 TITUS LAW ZHENG YAN",
+    "datetime": "2025-03-24T08:42:39",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "你好，我想要询问我的健保卡已经完成了吗？"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您詢問國際事務處的工作人員。"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "塔庫爾 VICKY THAKUR",
+    "datetime": "2025-03-26T11:42:26",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "about my schlorship"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "塔庫爾 VICKY THAKUR",
+    "datetime": "2025-03-27T11:25:16",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "about my schlorship"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "can I know about my scholarship information"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff for information about your scholarship."
+      }
+    ],
+    "target_turn": 2
+  },
+  {
+    "user": "崔翰恩 Gontee Chuenchoophol",
+    "datetime": "2025-03-26T10:13:57",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Good morning. I would like to ask you about the scholarship renewal results. Where can I find the result of my scholarship application?"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "巫嘉德 Daniel Alonso Leon Ugalde",
+    "datetime": "2025-03-18T13:41:24",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hey, I would like to ask when the distinguish scholars results come out?"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "巫嘉德 Daniel Alonso Leon Ugalde",
+    "datetime": "2025-03-20T10:49:05",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hey, I would like to ask when the distinguish scholars results come out?"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Ok, thank you"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      }
+    ],
+    "target_turn": 2
+  },
+  {
+    "user": "張昀棠 CHANG, YUN-TANG",
+    "datetime": "2025-03-20T22:39:17",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "嗨"
+      },
+      {
+        "role": "assistant",
+        "message": "嗨，你好！"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "張昀棠 CHANG, YUN-TANG",
+    "datetime": "2025-03-20T23:45:05",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "嗨"
+      },
+      {
+        "role": "assistant",
+        "message": "嗨，你好！"
+      },
+      {
+        "role": "user",
+        "message": "你好"
+      },
+      {
+        "role": "assistant",
+        "message": "你好，有什麼我可以幫忙的嗎？"
+      }
+    ],
+    "target_turn": 2
+  },
+  {
+    "user": "張昀棠 CHANG, YUN-TANG",
+    "datetime": "2025-03-21T00:27:27",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "嗨"
+      },
+      {
+        "role": "assistant",
+        "message": "嗨，你好！"
+      },
+      {
+        "role": "user",
+        "message": "你好"
+      },
+      {
+        "role": "assistant",
+        "message": "你好，有什麼我可以幫忙的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "哈囉"
+      },
+      {
+        "role": "assistant",
+        "message": "哈囉"
+      }
+    ],
+    "target_turn": 4
+  },
+  {
+    "user": "張昀棠 CHANG, YUN-TANG",
+    "datetime": "2025-03-21T00:28:00",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "嗨"
+      },
+      {
+        "role": "assistant",
+        "message": "嗨，你好！"
+      },
+      {
+        "role": "user",
+        "message": "你好"
+      },
+      {
+        "role": "assistant",
+        "message": "你好，有什麼我可以幫忙的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "哈囉"
+      },
+      {
+        "role": "assistant",
+        "message": "哈囉"
+      },
+      {
+        "role": "user",
+        "message": "我想問工作證"
+      },
+      {
+        "role": "assistant",
+        "message": "您可以透過以下連結進行工作證的線上申請：https://ezwp.wda.gov.tw\n操作手冊請參考附件一：http://oia.ncku.edu.tw/var/file/32/1032/img/661349079.pdf"
+      }
+    ],
+    "target_turn": 6
+  },
+  {
+    "user": "張昀棠測試",
+    "datetime": "2025-03-21T00:20:54",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "嗨"
+      },
+      {
+        "role": "assistant",
+        "message": "嗨！有什麼我能幫忙的嗎？"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "張昀棠測試",
+    "datetime": "2025-03-21T00:21:40",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "嗨"
+      },
+      {
+        "role": "assistant",
+        "message": "嗨！有什麼我能幫忙的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "請問一下新生要繳費可以怎麼做 繳費單去哪裡印"
+      },
+      {
+        "role": "assistant",
+        "message": "新生可以使用以下幾種方式繳費：\n\n1. 線上繳費：詳細信息請參考出納組的繳費相關資訊說明。\n2. 到台灣銀行繳費：可以下載或列印繳費單，前往台灣銀行或超商繳費。\n\n繳費單可以從台灣銀行學雜費入口網下載或列印【6:0†繳費.txt】【6:2†繳費.txt】。"
+      }
+    ],
+    "target_turn": 2
+  },
+  {
+    "user": "張昀棠測試",
+    "datetime": "2025-03-21T00:22:15",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "嗨"
+      },
+      {
+        "role": "assistant",
+        "message": "嗨！有什麼我能幫忙的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "請問一下新生要繳費可以怎麼做 繳費單去哪裡印"
+      },
+      {
+        "role": "assistant",
+        "message": "新生可以使用以下幾種方式繳費：\n\n1. 線上繳費：詳細信息請參考出納組的繳費相關資訊說明。\n2. 到台灣銀行繳費：可以下載或列印繳費單，前往台灣銀行或超商繳費。\n\n繳費單可以從台灣銀行學雜費入口網下載或列印【6:0†繳費.txt】【6:2†繳費.txt】。"
+      },
+      {
+        "role": "user",
+        "message": "體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      }
+    ],
+    "target_turn": 4
+  },
+  {
+    "user": "張昀棠測試",
+    "datetime": "2025-03-21T00:22:35",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "嗨"
+      },
+      {
+        "role": "assistant",
+        "message": "嗨！有什麼我能幫忙的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "請問一下新生要繳費可以怎麼做 繳費單去哪裡印"
+      },
+      {
+        "role": "assistant",
+        "message": "新生可以使用以下幾種方式繳費：\n\n1. 線上繳費：詳細信息請參考出納組的繳費相關資訊說明。\n2. 到台灣銀行繳費：可以下載或列印繳費單，前往台灣銀行或超商繳費。\n\n繳費單可以從台灣銀行學雜費入口網下載或列印【6:0†繳費.txt】【6:2†繳費.txt】。"
+      },
+      {
+        "role": "user",
+        "message": "體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "新生體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      }
+    ],
+    "target_turn": 6
+  },
+  {
+    "user": "張昀棠測試",
+    "datetime": "2025-03-21T00:22:57",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "嗨"
+      },
+      {
+        "role": "assistant",
+        "message": "嗨！有什麼我能幫忙的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "請問一下新生要繳費可以怎麼做 繳費單去哪裡印"
+      },
+      {
+        "role": "assistant",
+        "message": "新生可以使用以下幾種方式繳費：\n\n1. 線上繳費：詳細信息請參考出納組的繳費相關資訊說明。\n2. 到台灣銀行繳費：可以下載或列印繳費單，前往台灣銀行或超商繳費。\n\n繳費單可以從台灣銀行學雜費入口網下載或列印【6:0†繳費.txt】【6:2†繳費.txt】。"
+      },
+      {
+        "role": "user",
+        "message": "體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "新生體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "額我幾號要到學校"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      }
+    ],
+    "target_turn": 8
+  },
+  {
+    "user": "張昀棠測試",
+    "datetime": "2025-03-21T00:23:13",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "嗨"
+      },
+      {
+        "role": "assistant",
+        "message": "嗨！有什麼我能幫忙的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "請問一下新生要繳費可以怎麼做 繳費單去哪裡印"
+      },
+      {
+        "role": "assistant",
+        "message": "新生可以使用以下幾種方式繳費：\n\n1. 線上繳費：詳細信息請參考出納組的繳費相關資訊說明。\n2. 到台灣銀行繳費：可以下載或列印繳費單，前往台灣銀行或超商繳費。\n\n繳費單可以從台灣銀行學雜費入口網下載或列印【6:0†繳費.txt】【6:2†繳費.txt】。"
+      },
+      {
+        "role": "user",
+        "message": "體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "新生體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "額我幾號要到學校"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問什麼"
+      },
+      {
+        "role": "assistant",
+        "message": "你剛剛問了新生體檢要多少錢以及幾號要到學校。"
+      }
+    ],
+    "target_turn": 10
+  },
+  {
+    "user": "張昀棠測試",
+    "datetime": "2025-03-21T00:29:42",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "嗨"
+      },
+      {
+        "role": "assistant",
+        "message": "嗨！有什麼我能幫忙的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "請問一下新生要繳費可以怎麼做 繳費單去哪裡印"
+      },
+      {
+        "role": "assistant",
+        "message": "新生可以使用以下幾種方式繳費：\n\n1. 線上繳費：詳細信息請參考出納組的繳費相關資訊說明。\n2. 到台灣銀行繳費：可以下載或列印繳費單，前往台灣銀行或超商繳費。\n\n繳費單可以從台灣銀行學雜費入口網下載或列印【6:0†繳費.txt】【6:2†繳費.txt】。"
+      },
+      {
+        "role": "user",
+        "message": "體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "新生體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "額我幾號要到學校"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問什麼"
+      },
+      {
+        "role": "assistant",
+        "message": "你剛剛問了新生體檢要多少錢以及幾號要到學校。"
+      },
+      {
+        "role": "user",
+        "message": "微積分怎麼算"
+      },
+      {
+        "role": "assistant",
+        "message": "It is not within my scope."
+      }
+    ],
+    "target_turn": 12
+  },
+  {
+    "user": "張昀棠測試",
+    "datetime": "2025-03-21T00:30:50",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "嗨"
+      },
+      {
+        "role": "assistant",
+        "message": "嗨！有什麼我能幫忙的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "請問一下新生要繳費可以怎麼做 繳費單去哪裡印"
+      },
+      {
+        "role": "assistant",
+        "message": "新生可以使用以下幾種方式繳費：\n\n1. 線上繳費：詳細信息請參考出納組的繳費相關資訊說明。\n2. 到台灣銀行繳費：可以下載或列印繳費單，前往台灣銀行或超商繳費。\n\n繳費單可以從台灣銀行學雜費入口網下載或列印【6:0†繳費.txt】【6:2†繳費.txt】。"
+      },
+      {
+        "role": "user",
+        "message": "體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "新生體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "額我幾號要到學校"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問什麼"
+      },
+      {
+        "role": "assistant",
+        "message": "你剛剛問了新生體檢要多少錢以及幾號要到學校。"
+      },
+      {
+        "role": "user",
+        "message": "微積分怎麼算"
+      },
+      {
+        "role": "assistant",
+        "message": "It is not within my scope."
+      },
+      {
+        "role": "user",
+        "message": "How can I apply for the scholarship "
+      },
+      {
+        "role": "assistant",
+        "message": "To apply for the scholarship, you should:\n\n1. Prepare the required documents, such as:\n   - Application form, which usually includes a personal statement and study plan.\n   - Admission proof from the university.\n   - Copy of your passport or residence permit.\n   - Additional supporting materials like academic transcripts, language proficiency certificates, and proof of exceptional talent or achievements.\n   \n2. Submit the application on time as specified by the scholarship guidelines. Specific deadlines and application periods are provided on the scholarship announcement.\n\nFor more detailed information and specific application periods, it's recommended to refer to the official guidelines provided by the scholarship office or the specific scholarship announcement【18:3†source】."
+      }
+    ],
+    "target_turn": 14
+  },
+  {
+    "user": "張昀棠測試",
+    "datetime": "2025-03-21T13:42:41",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "嗨"
+      },
+      {
+        "role": "assistant",
+        "message": "嗨！有什麼我能幫忙的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "請問一下新生要繳費可以怎麼做 繳費單去哪裡印"
+      },
+      {
+        "role": "assistant",
+        "message": "新生可以使用以下幾種方式繳費：\n\n1. 線上繳費：詳細信息請參考出納組的繳費相關資訊說明。\n2. 到台灣銀行繳費：可以下載或列印繳費單，前往台灣銀行或超商繳費。\n\n繳費單可以從台灣銀行學雜費入口網下載或列印【6:0†繳費.txt】【6:2†繳費.txt】。"
+      },
+      {
+        "role": "user",
+        "message": "體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "新生體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "額我幾號要到學校"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問什麼"
+      },
+      {
+        "role": "assistant",
+        "message": "你剛剛問了新生體檢要多少錢以及幾號要到學校。"
+      },
+      {
+        "role": "user",
+        "message": "微積分怎麼算"
+      },
+      {
+        "role": "assistant",
+        "message": "It is not within my scope."
+      },
+      {
+        "role": "user",
+        "message": "How can I apply for the scholarship "
+      },
+      {
+        "role": "assistant",
+        "message": "To apply for the scholarship, you should:\n\n1. Prepare the required documents, such as:\n   - Application form, which usually includes a personal statement and study plan.\n   - Admission proof from the university.\n   - Copy of your passport or residence permit.\n   - Additional supporting materials like academic transcripts, language proficiency certificates, and proof of exceptional talent or achievements.\n   \n2. Submit the application on time as specified by the scholarship guidelines. Specific deadlines and application periods are provided on the scholarship announcement.\n\nFor more detailed information and specific application periods, it's recommended to refer to the official guidelines provided by the scholarship office or the specific scholarship announcement【18:3†source】."
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問了什麼"
+      },
+      {
+        "role": "assistant",
+        "message": "You asked how you can apply for the scholarship."
+      }
+    ],
+    "target_turn": 16
+  },
+  {
+    "user": "張昀棠測試",
+    "datetime": "2025-03-25T19:49:59",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "嗨"
+      },
+      {
+        "role": "assistant",
+        "message": "嗨！有什麼我能幫忙的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "請問一下新生要繳費可以怎麼做 繳費單去哪裡印"
+      },
+      {
+        "role": "assistant",
+        "message": "新生可以使用以下幾種方式繳費：\n\n1. 線上繳費：詳細信息請參考出納組的繳費相關資訊說明。\n2. 到台灣銀行繳費：可以下載或列印繳費單，前往台灣銀行或超商繳費。\n\n繳費單可以從台灣銀行學雜費入口網下載或列印【6:0†繳費.txt】【6:2†繳費.txt】。"
+      },
+      {
+        "role": "user",
+        "message": "體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "新生體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "額我幾號要到學校"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問什麼"
+      },
+      {
+        "role": "assistant",
+        "message": "你剛剛問了新生體檢要多少錢以及幾號要到學校。"
+      },
+      {
+        "role": "user",
+        "message": "微積分怎麼算"
+      },
+      {
+        "role": "assistant",
+        "message": "It is not within my scope."
+      },
+      {
+        "role": "user",
+        "message": "How can I apply for the scholarship "
+      },
+      {
+        "role": "assistant",
+        "message": "To apply for the scholarship, you should:\n\n1. Prepare the required documents, such as:\n   - Application form, which usually includes a personal statement and study plan.\n   - Admission proof from the university.\n   - Copy of your passport or residence permit.\n   - Additional supporting materials like academic transcripts, language proficiency certificates, and proof of exceptional talent or achievements.\n   \n2. Submit the application on time as specified by the scholarship guidelines. Specific deadlines and application periods are provided on the scholarship announcement.\n\nFor more detailed information and specific application periods, it's recommended to refer to the official guidelines provided by the scholarship office or the specific scholarship announcement【18:3†source】."
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問了什麼"
+      },
+      {
+        "role": "assistant",
+        "message": "You asked how you can apply for the scholarship."
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問什麼呢"
+      },
+      {
+        "role": "assistant",
+        "message": "You asked how you can apply for the scholarship."
+      }
+    ],
+    "target_turn": 18
+  },
+  {
+    "user": "張昀棠測試",
+    "datetime": "2025-03-25T19:50:24",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "嗨"
+      },
+      {
+        "role": "assistant",
+        "message": "嗨！有什麼我能幫忙的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "請問一下新生要繳費可以怎麼做 繳費單去哪裡印"
+      },
+      {
+        "role": "assistant",
+        "message": "新生可以使用以下幾種方式繳費：\n\n1. 線上繳費：詳細信息請參考出納組的繳費相關資訊說明。\n2. 到台灣銀行繳費：可以下載或列印繳費單，前往台灣銀行或超商繳費。\n\n繳費單可以從台灣銀行學雜費入口網下載或列印【6:0†繳費.txt】【6:2†繳費.txt】。"
+      },
+      {
+        "role": "user",
+        "message": "體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "新生體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "額我幾號要到學校"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問什麼"
+      },
+      {
+        "role": "assistant",
+        "message": "你剛剛問了新生體檢要多少錢以及幾號要到學校。"
+      },
+      {
+        "role": "user",
+        "message": "微積分怎麼算"
+      },
+      {
+        "role": "assistant",
+        "message": "It is not within my scope."
+      },
+      {
+        "role": "user",
+        "message": "How can I apply for the scholarship "
+      },
+      {
+        "role": "assistant",
+        "message": "To apply for the scholarship, you should:\n\n1. Prepare the required documents, such as:\n   - Application form, which usually includes a personal statement and study plan.\n   - Admission proof from the university.\n   - Copy of your passport or residence permit.\n   - Additional supporting materials like academic transcripts, language proficiency certificates, and proof of exceptional talent or achievements.\n   \n2. Submit the application on time as specified by the scholarship guidelines. Specific deadlines and application periods are provided on the scholarship announcement.\n\nFor more detailed information and specific application periods, it's recommended to refer to the official guidelines provided by the scholarship office or the specific scholarship announcement【18:3†source】."
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問了什麼"
+      },
+      {
+        "role": "assistant",
+        "message": "You asked how you can apply for the scholarship."
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問什麼呢"
+      },
+      {
+        "role": "assistant",
+        "message": "You asked how you can apply for the scholarship."
+      },
+      {
+        "role": "user",
+        "message": "新生健保卡怎麼申請"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      }
+    ],
+    "target_turn": 20
+  },
+  {
+    "user": "張昀棠測試",
+    "datetime": "2025-03-25T19:51:01",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "嗨"
+      },
+      {
+        "role": "assistant",
+        "message": "嗨！有什麼我能幫忙的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "請問一下新生要繳費可以怎麼做 繳費單去哪裡印"
+      },
+      {
+        "role": "assistant",
+        "message": "新生可以使用以下幾種方式繳費：\n\n1. 線上繳費：詳細信息請參考出納組的繳費相關資訊說明。\n2. 到台灣銀行繳費：可以下載或列印繳費單，前往台灣銀行或超商繳費。\n\n繳費單可以從台灣銀行學雜費入口網下載或列印【6:0†繳費.txt】【6:2†繳費.txt】。"
+      },
+      {
+        "role": "user",
+        "message": "體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "新生體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "額我幾號要到學校"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問什麼"
+      },
+      {
+        "role": "assistant",
+        "message": "你剛剛問了新生體檢要多少錢以及幾號要到學校。"
+      },
+      {
+        "role": "user",
+        "message": "微積分怎麼算"
+      },
+      {
+        "role": "assistant",
+        "message": "It is not within my scope."
+      },
+      {
+        "role": "user",
+        "message": "How can I apply for the scholarship "
+      },
+      {
+        "role": "assistant",
+        "message": "To apply for the scholarship, you should:\n\n1. Prepare the required documents, such as:\n   - Application form, which usually includes a personal statement and study plan.\n   - Admission proof from the university.\n   - Copy of your passport or residence permit.\n   - Additional supporting materials like academic transcripts, language proficiency certificates, and proof of exceptional talent or achievements.\n   \n2. Submit the application on time as specified by the scholarship guidelines. Specific deadlines and application periods are provided on the scholarship announcement.\n\nFor more detailed information and specific application periods, it's recommended to refer to the official guidelines provided by the scholarship office or the specific scholarship announcement【18:3†source】."
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問了什麼"
+      },
+      {
+        "role": "assistant",
+        "message": "You asked how you can apply for the scholarship."
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問什麼呢"
+      },
+      {
+        "role": "assistant",
+        "message": "You asked how you can apply for the scholarship."
+      },
+      {
+        "role": "user",
+        "message": "新生健保卡怎麼申請"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "新生健保卡怎麼申請"
+      },
+      {
+        "role": "assistant",
+        "message": "申請新生健保卡的流程如下：\n\n1. 取得台灣居留證後，需居留滿183天且途中未離開台灣超過一次，且每次不超過30天。學校會自動為符合上述條件的新生辦理健保卡申請。\n2. 健保卡核發後，會直接寄送到國際事務處學生事務組，並透過LINE通知學生領取【28:0†source】。\n"
+      }
+    ],
+    "target_turn": 22
+  },
+  {
+    "user": "張昀棠測試",
+    "datetime": "2025-03-25T19:52:23",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "嗨"
+      },
+      {
+        "role": "assistant",
+        "message": "嗨！有什麼我能幫忙的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "請問一下新生要繳費可以怎麼做 繳費單去哪裡印"
+      },
+      {
+        "role": "assistant",
+        "message": "新生可以使用以下幾種方式繳費：\n\n1. 線上繳費：詳細信息請參考出納組的繳費相關資訊說明。\n2. 到台灣銀行繳費：可以下載或列印繳費單，前往台灣銀行或超商繳費。\n\n繳費單可以從台灣銀行學雜費入口網下載或列印【6:0†繳費.txt】【6:2†繳費.txt】。"
+      },
+      {
+        "role": "user",
+        "message": "體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "新生體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "額我幾號要到學校"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問什麼"
+      },
+      {
+        "role": "assistant",
+        "message": "你剛剛問了新生體檢要多少錢以及幾號要到學校。"
+      },
+      {
+        "role": "user",
+        "message": "微積分怎麼算"
+      },
+      {
+        "role": "assistant",
+        "message": "It is not within my scope."
+      },
+      {
+        "role": "user",
+        "message": "How can I apply for the scholarship "
+      },
+      {
+        "role": "assistant",
+        "message": "To apply for the scholarship, you should:\n\n1. Prepare the required documents, such as:\n   - Application form, which usually includes a personal statement and study plan.\n   - Admission proof from the university.\n   - Copy of your passport or residence permit.\n   - Additional supporting materials like academic transcripts, language proficiency certificates, and proof of exceptional talent or achievements.\n   \n2. Submit the application on time as specified by the scholarship guidelines. Specific deadlines and application periods are provided on the scholarship announcement.\n\nFor more detailed information and specific application periods, it's recommended to refer to the official guidelines provided by the scholarship office or the specific scholarship announcement【18:3†source】."
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問了什麼"
+      },
+      {
+        "role": "assistant",
+        "message": "You asked how you can apply for the scholarship."
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問什麼呢"
+      },
+      {
+        "role": "assistant",
+        "message": "You asked how you can apply for the scholarship."
+      },
+      {
+        "role": "user",
+        "message": "新生健保卡怎麼申請"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "新生健保卡怎麼申請"
+      },
+      {
+        "role": "assistant",
+        "message": "申請新生健保卡的流程如下：\n\n1. 取得台灣居留證後，需居留滿183天且途中未離開台灣超過一次，且每次不超過30天。學校會自動為符合上述條件的新生辦理健保卡申請。\n2. 健保卡核發後，會直接寄送到國際事務處學生事務組，並透過LINE通知學生領取【28:0†source】。\n"
+      },
+      {
+        "role": "user",
+        "message": "體檢需要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "新生體檢費用如下：\n\n一般體檢：\n- 各院系指定期間優惠價為新台幣850元\n- 非指定期間到院健檢價為新台幣1200元\n\n簽證體檢：\n- 各院系指定期間優惠價為新台幣1300元\n- 非指定期間到院健檢價為新台幣1680元【32:0†source】【32:1†source】。"
+      }
+    ],
+    "target_turn": 24
+  },
+  {
+    "user": "張昀棠測試",
+    "datetime": "2025-03-25T19:52:57",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "嗨"
+      },
+      {
+        "role": "assistant",
+        "message": "嗨！有什麼我能幫忙的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "請問一下新生要繳費可以怎麼做 繳費單去哪裡印"
+      },
+      {
+        "role": "assistant",
+        "message": "新生可以使用以下幾種方式繳費：\n\n1. 線上繳費：詳細信息請參考出納組的繳費相關資訊說明。\n2. 到台灣銀行繳費：可以下載或列印繳費單，前往台灣銀行或超商繳費。\n\n繳費單可以從台灣銀行學雜費入口網下載或列印【6:0†繳費.txt】【6:2†繳費.txt】。"
+      },
+      {
+        "role": "user",
+        "message": "體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "新生體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "額我幾號要到學校"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問什麼"
+      },
+      {
+        "role": "assistant",
+        "message": "你剛剛問了新生體檢要多少錢以及幾號要到學校。"
+      },
+      {
+        "role": "user",
+        "message": "微積分怎麼算"
+      },
+      {
+        "role": "assistant",
+        "message": "It is not within my scope."
+      },
+      {
+        "role": "user",
+        "message": "How can I apply for the scholarship "
+      },
+      {
+        "role": "assistant",
+        "message": "To apply for the scholarship, you should:\n\n1. Prepare the required documents, such as:\n   - Application form, which usually includes a personal statement and study plan.\n   - Admission proof from the university.\n   - Copy of your passport or residence permit.\n   - Additional supporting materials like academic transcripts, language proficiency certificates, and proof of exceptional talent or achievements.\n   \n2. Submit the application on time as specified by the scholarship guidelines. Specific deadlines and application periods are provided on the scholarship announcement.\n\nFor more detailed information and specific application periods, it's recommended to refer to the official guidelines provided by the scholarship office or the specific scholarship announcement【18:3†source】."
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問了什麼"
+      },
+      {
+        "role": "assistant",
+        "message": "You asked how you can apply for the scholarship."
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問什麼呢"
+      },
+      {
+        "role": "assistant",
+        "message": "You asked how you can apply for the scholarship."
+      },
+      {
+        "role": "user",
+        "message": "新生健保卡怎麼申請"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "新生健保卡怎麼申請"
+      },
+      {
+        "role": "assistant",
+        "message": "申請新生健保卡的流程如下：\n\n1. 取得台灣居留證後，需居留滿183天且途中未離開台灣超過一次，且每次不超過30天。學校會自動為符合上述條件的新生辦理健保卡申請。\n2. 健保卡核發後，會直接寄送到國際事務處學生事務組，並透過LINE通知學生領取【28:0†source】。\n"
+      },
+      {
+        "role": "user",
+        "message": "體檢需要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "新生體檢費用如下：\n\n一般體檢：\n- 各院系指定期間優惠價為新台幣850元\n- 非指定期間到院健檢價為新台幣1200元\n\n簽證體檢：\n- 各院系指定期間優惠價為新台幣1300元\n- 非指定期間到院健檢價為新台幣1680元【32:0†source】【32:1†source】。"
+      },
+      {
+        "role": "user",
+        "message": "簽證體檢和一般體檢差在哪"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      }
+    ],
+    "target_turn": 26
+  },
+  {
+    "user": "張昀棠測試",
+    "datetime": "2025-03-25T20:15:20",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "嗨"
+      },
+      {
+        "role": "assistant",
+        "message": "嗨！有什麼我能幫忙的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "請問一下新生要繳費可以怎麼做 繳費單去哪裡印"
+      },
+      {
+        "role": "assistant",
+        "message": "新生可以使用以下幾種方式繳費：\n\n1. 線上繳費：詳細信息請參考出納組的繳費相關資訊說明。\n2. 到台灣銀行繳費：可以下載或列印繳費單，前往台灣銀行或超商繳費。\n\n繳費單可以從台灣銀行學雜費入口網下載或列印【6:0†繳費.txt】【6:2†繳費.txt】。"
+      },
+      {
+        "role": "user",
+        "message": "體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "新生體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "額我幾號要到學校"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問什麼"
+      },
+      {
+        "role": "assistant",
+        "message": "你剛剛問了新生體檢要多少錢以及幾號要到學校。"
+      },
+      {
+        "role": "user",
+        "message": "微積分怎麼算"
+      },
+      {
+        "role": "assistant",
+        "message": "It is not within my scope."
+      },
+      {
+        "role": "user",
+        "message": "How can I apply for the scholarship "
+      },
+      {
+        "role": "assistant",
+        "message": "To apply for the scholarship, you should:\n\n1. Prepare the required documents, such as:\n   - Application form, which usually includes a personal statement and study plan.\n   - Admission proof from the university.\n   - Copy of your passport or residence permit.\n   - Additional supporting materials like academic transcripts, language proficiency certificates, and proof of exceptional talent or achievements.\n   \n2. Submit the application on time as specified by the scholarship guidelines. Specific deadlines and application periods are provided on the scholarship announcement.\n\nFor more detailed information and specific application periods, it's recommended to refer to the official guidelines provided by the scholarship office or the specific scholarship announcement【18:3†source】."
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問了什麼"
+      },
+      {
+        "role": "assistant",
+        "message": "You asked how you can apply for the scholarship."
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問什麼呢"
+      },
+      {
+        "role": "assistant",
+        "message": "You asked how you can apply for the scholarship."
+      },
+      {
+        "role": "user",
+        "message": "新生健保卡怎麼申請"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "新生健保卡怎麼申請"
+      },
+      {
+        "role": "assistant",
+        "message": "申請新生健保卡的流程如下：\n\n1. 取得台灣居留證後，需居留滿183天且途中未離開台灣超過一次，且每次不超過30天。學校會自動為符合上述條件的新生辦理健保卡申請。\n2. 健保卡核發後，會直接寄送到國際事務處學生事務組，並透過LINE通知學生領取【28:0†source】。\n"
+      },
+      {
+        "role": "user",
+        "message": "體檢需要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "新生體檢費用如下：\n\n一般體檢：\n- 各院系指定期間優惠價為新台幣850元\n- 非指定期間到院健檢價為新台幣1200元\n\n簽證體檢：\n- 各院系指定期間優惠價為新台幣1300元\n- 非指定期間到院健檢價為新台幣1680元【32:0†source】【32:1†source】。"
+      },
+      {
+        "role": "user",
+        "message": "簽證體檢和一般體檢差在哪"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "請問一下新生要繳費可以怎麼做 繳費單去哪裡印"
+      },
+      {
+        "role": "assistant",
+        "message": "新生可以使用以下幾種方式繳費：\n\n1. 線上繳費：詳細信息請參考出納組的繳費相關資訊說明。\n2. 到台灣銀行繳費：可以下載或列印繳費單，前往台灣銀行或超商繳費。\n\n繳費單可以從台灣銀行學雜費入口網下載或列印【6:0】【6:2】。"
+      }
+    ],
+    "target_turn": 28
+  },
+  {
+    "user": "張昀棠測試",
+    "datetime": "2025-03-25T20:18:22",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "嗨"
+      },
+      {
+        "role": "assistant",
+        "message": "嗨！有什麼我能幫忙的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "請問一下新生要繳費可以怎麼做 繳費單去哪裡印"
+      },
+      {
+        "role": "assistant",
+        "message": "新生可以使用以下幾種方式繳費：\n\n1. 線上繳費：詳細信息請參考出納組的繳費相關資訊說明。\n2. 到台灣銀行繳費：可以下載或列印繳費單，前往台灣銀行或超商繳費。\n\n繳費單可以從台灣銀行學雜費入口網下載或列印【6:0†繳費.txt】【6:2†繳費.txt】。"
+      },
+      {
+        "role": "user",
+        "message": "體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "新生體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "額我幾號要到學校"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問什麼"
+      },
+      {
+        "role": "assistant",
+        "message": "你剛剛問了新生體檢要多少錢以及幾號要到學校。"
+      },
+      {
+        "role": "user",
+        "message": "微積分怎麼算"
+      },
+      {
+        "role": "assistant",
+        "message": "It is not within my scope."
+      },
+      {
+        "role": "user",
+        "message": "How can I apply for the scholarship "
+      },
+      {
+        "role": "assistant",
+        "message": "To apply for the scholarship, you should:\n\n1. Prepare the required documents, such as:\n   - Application form, which usually includes a personal statement and study plan.\n   - Admission proof from the university.\n   - Copy of your passport or residence permit.\n   - Additional supporting materials like academic transcripts, language proficiency certificates, and proof of exceptional talent or achievements.\n   \n2. Submit the application on time as specified by the scholarship guidelines. Specific deadlines and application periods are provided on the scholarship announcement.\n\nFor more detailed information and specific application periods, it's recommended to refer to the official guidelines provided by the scholarship office or the specific scholarship announcement【18:3†source】."
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問了什麼"
+      },
+      {
+        "role": "assistant",
+        "message": "You asked how you can apply for the scholarship."
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問什麼呢"
+      },
+      {
+        "role": "assistant",
+        "message": "You asked how you can apply for the scholarship."
+      },
+      {
+        "role": "user",
+        "message": "新生健保卡怎麼申請"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "新生健保卡怎麼申請"
+      },
+      {
+        "role": "assistant",
+        "message": "申請新生健保卡的流程如下：\n\n1. 取得台灣居留證後，需居留滿183天且途中未離開台灣超過一次，且每次不超過30天。學校會自動為符合上述條件的新生辦理健保卡申請。\n2. 健保卡核發後，會直接寄送到國際事務處學生事務組，並透過LINE通知學生領取【28:0†source】。\n"
+      },
+      {
+        "role": "user",
+        "message": "體檢需要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "新生體檢費用如下：\n\n一般體檢：\n- 各院系指定期間優惠價為新台幣850元\n- 非指定期間到院健檢價為新台幣1200元\n\n簽證體檢：\n- 各院系指定期間優惠價為新台幣1300元\n- 非指定期間到院健檢價為新台幣1680元【32:0†source】【32:1†source】。"
+      },
+      {
+        "role": "user",
+        "message": "簽證體檢和一般體檢差在哪"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "請問一下新生要繳費可以怎麼做 繳費單去哪裡印"
+      },
+      {
+        "role": "assistant",
+        "message": "新生可以使用以下幾種方式繳費：\n\n1. 線上繳費：詳細信息請參考出納組的繳費相關資訊說明。\n2. 到台灣銀行繳費：可以下載或列印繳費單，前往台灣銀行或超商繳費。\n\n繳費單可以從台灣銀行學雜費入口網下載或列印【6:0】【6:2】。"
+      },
+      {
+        "role": "user",
+        "message": "請問一下新生要繳費可以怎麼做 繳費單去哪裡印"
+      },
+      {
+        "role": "assistant",
+        "message": "新生可以使用以下幾種方式繳費：\n\n1. 線上繳費：詳細信息請參考出納組的繳費相關資訊說明\n2. 到台灣銀行或超商繳費：可以下載或列印繳費單，前往台灣銀行或超商繳費\n\n繳費單可以從台灣銀行學雜費入口網下載或列印。"
+      }
+    ],
+    "target_turn": 30
+  },
+  {
+    "user": "張昀棠測試",
+    "datetime": "2025-03-25T20:18:40",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "嗨"
+      },
+      {
+        "role": "assistant",
+        "message": "嗨！有什麼我能幫忙的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "請問一下新生要繳費可以怎麼做 繳費單去哪裡印"
+      },
+      {
+        "role": "assistant",
+        "message": "新生可以使用以下幾種方式繳費：\n\n1. 線上繳費：詳細信息請參考出納組的繳費相關資訊說明。\n2. 到台灣銀行繳費：可以下載或列印繳費單，前往台灣銀行或超商繳費。\n\n繳費單可以從台灣銀行學雜費入口網下載或列印【6:0†繳費.txt】【6:2†繳費.txt】。"
+      },
+      {
+        "role": "user",
+        "message": "體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "新生體檢要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "額我幾號要到學校"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問什麼"
+      },
+      {
+        "role": "assistant",
+        "message": "你剛剛問了新生體檢要多少錢以及幾號要到學校。"
+      },
+      {
+        "role": "user",
+        "message": "微積分怎麼算"
+      },
+      {
+        "role": "assistant",
+        "message": "It is not within my scope."
+      },
+      {
+        "role": "user",
+        "message": "How can I apply for the scholarship "
+      },
+      {
+        "role": "assistant",
+        "message": "To apply for the scholarship, you should:\n\n1. Prepare the required documents, such as:\n   - Application form, which usually includes a personal statement and study plan.\n   - Admission proof from the university.\n   - Copy of your passport or residence permit.\n   - Additional supporting materials like academic transcripts, language proficiency certificates, and proof of exceptional talent or achievements.\n   \n2. Submit the application on time as specified by the scholarship guidelines. Specific deadlines and application periods are provided on the scholarship announcement.\n\nFor more detailed information and specific application periods, it's recommended to refer to the official guidelines provided by the scholarship office or the specific scholarship announcement【18:3†source】."
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問了什麼"
+      },
+      {
+        "role": "assistant",
+        "message": "You asked how you can apply for the scholarship."
+      },
+      {
+        "role": "user",
+        "message": "我剛剛問什麼呢"
+      },
+      {
+        "role": "assistant",
+        "message": "You asked how you can apply for the scholarship."
+      },
+      {
+        "role": "user",
+        "message": "新生健保卡怎麼申請"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "新生健保卡怎麼申請"
+      },
+      {
+        "role": "assistant",
+        "message": "申請新生健保卡的流程如下：\n\n1. 取得台灣居留證後，需居留滿183天且途中未離開台灣超過一次，且每次不超過30天。學校會自動為符合上述條件的新生辦理健保卡申請。\n2. 健保卡核發後，會直接寄送到國際事務處學生事務組，並透過LINE通知學生領取【28:0†source】。\n"
+      },
+      {
+        "role": "user",
+        "message": "體檢需要多少錢呢"
+      },
+      {
+        "role": "assistant",
+        "message": "新生體檢費用如下：\n\n一般體檢：\n- 各院系指定期間優惠價為新台幣850元\n- 非指定期間到院健檢價為新台幣1200元\n\n簽證體檢：\n- 各院系指定期間優惠價為新台幣1300元\n- 非指定期間到院健檢價為新台幣1680元【32:0†source】【32:1†source】。"
+      },
+      {
+        "role": "user",
+        "message": "簽證體檢和一般體檢差在哪"
+      },
+      {
+        "role": "assistant",
+        "message": "Sorry, The system encountered an error. Please try again later."
+      },
+      {
+        "role": "user",
+        "message": "請問一下新生要繳費可以怎麼做 繳費單去哪裡印"
+      },
+      {
+        "role": "assistant",
+        "message": "新生可以使用以下幾種方式繳費：\n\n1. 線上繳費：詳細信息請參考出納組的繳費相關資訊說明。\n2. 到台灣銀行繳費：可以下載或列印繳費單，前往台灣銀行或超商繳費。\n\n繳費單可以從台灣銀行學雜費入口網下載或列印【6:0】【6:2】。"
+      },
+      {
+        "role": "user",
+        "message": "請問一下新生要繳費可以怎麼做 繳費單去哪裡印"
+      },
+      {
+        "role": "assistant",
+        "message": "新生可以使用以下幾種方式繳費：\n\n1. 線上繳費：詳細信息請參考出納組的繳費相關資訊說明\n2. 到台灣銀行或超商繳費：可以下載或列印繳費單，前往台灣銀行或超商繳費\n\n繳費單可以從台灣銀行學雜費入口網下載或列印。"
+      },
+      {
+        "role": "user",
+        "message": "新生健保卡怎麼申請"
+      },
+      {
+        "role": "assistant",
+        "message": "申請新生健保卡的流程如下：\n\n1. 取得台灣居留證後，需居留滿183天且途中未離開台灣超過一次，且每次不超過30天。學校會自動為符合上述條件的新生辦理健保卡申請\n2. 健保卡核發後，會直接寄送到國際事務處學生事務組，並透過LINE通知學生領取"
+      }
+    ],
+    "target_turn": 32
+  },
+  {
+    "user": "張浩銘",
+    "datetime": "2025-03-25T11:58:57",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "想問現在來可以嗎"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您詢問國際事務處的工作人員。"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "張浩銘",
+    "datetime": "2025-03-25T11:59:01",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "想問現在來可以嗎"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "剛剛下課"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的服務範圍內。"
+      }
+    ],
+    "target_turn": 2
+  },
+  {
+    "user": "德拉天貝 Thembekile Precious Dlamini",
+    "datetime": "2025-03-13T15:13:45",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Good day\n\nI hope this email finds you well.\n\nPlease help me meet the school director"
+      },
+      {
+        "role": "assistant",
+        "message": "Good day. For directions, please visit this URL: https://nckumap.ncku.edu.tw/map.php"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "德拉天貝 Thembekile Precious Dlamini",
+    "datetime": "2025-03-13T15:14:06",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Good day\n\nI hope this email finds you well.\n\nPlease help me meet the school director"
+      },
+      {
+        "role": "assistant",
+        "message": "Good day. For directions, please visit this URL: https://nckumap.ncku.edu.tw/map.php"
+      },
+      {
+        "role": "user",
+        "message": "Please make an appointment for me"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      }
+    ],
+    "target_turn": 2
+  },
+  {
+    "user": "德拉天貝 Thembekile Precious Dlamini",
+    "datetime": "2025-03-13T15:15:29",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Good day\n\nI hope this email finds you well.\n\nPlease help me meet the school director"
+      },
+      {
+        "role": "assistant",
+        "message": "Good day. For directions, please visit this URL: https://nckumap.ncku.edu.tw/map.php"
+      },
+      {
+        "role": "user",
+        "message": "Please make an appointment for me"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Tuesday from morning until 3pm"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      }
+    ],
+    "target_turn": 4
+  },
+  {
+    "user": "德拉天貝 Thembekile Precious Dlamini",
+    "datetime": "2025-03-13T15:18:24",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Good day\n\nI hope this email finds you well.\n\nPlease help me meet the school director"
+      },
+      {
+        "role": "assistant",
+        "message": "Good day. For directions, please visit this URL: https://nckumap.ncku.edu.tw/map.php"
+      },
+      {
+        "role": "user",
+        "message": "Please make an appointment for me"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Tuesday from morning until 3pm"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Thank you very much"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      }
+    ],
+    "target_turn": 6
+  },
+  {
+    "user": "德拉天貝 Thembekile Precious Dlamini",
+    "datetime": "2025-03-13T15:21:01",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Good day\n\nI hope this email finds you well.\n\nPlease help me meet the school director"
+      },
+      {
+        "role": "assistant",
+        "message": "Good day. For directions, please visit this URL: https://nckumap.ncku.edu.tw/map.php"
+      },
+      {
+        "role": "user",
+        "message": "Please make an appointment for me"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Tuesday from morning until 3pm"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Thank you very much"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      },
+      {
+        "role": "user",
+        "message": "Okay, I was excited about tomorrow, "
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      }
+    ],
+    "target_turn": 8
+  },
+  {
+    "user": "德拉天貝 Thembekile Precious Dlamini",
+    "datetime": "2025-03-13T15:21:19",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Good day\n\nI hope this email finds you well.\n\nPlease help me meet the school director"
+      },
+      {
+        "role": "assistant",
+        "message": "Good day. For directions, please visit this URL: https://nckumap.ncku.edu.tw/map.php"
+      },
+      {
+        "role": "user",
+        "message": "Please make an appointment for me"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Tuesday from morning until 3pm"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Thank you very much"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      },
+      {
+        "role": "user",
+        "message": "Okay, I was excited about tomorrow, "
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "I think this issue is urgent"
+      },
+      {
+        "role": "assistant",
+        "message": "For urgent issues, please contact the Campus Security Center immediately. The contact numbers are 55555 or 06-2381187."
+      }
+    ],
+    "target_turn": 10
+  },
+  {
+    "user": "德拉天貝 Thembekile Precious Dlamini",
+    "datetime": "2025-03-13T15:32:29",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Good day\n\nI hope this email finds you well.\n\nPlease help me meet the school director"
+      },
+      {
+        "role": "assistant",
+        "message": "Good day. For directions, please visit this URL: https://nckumap.ncku.edu.tw/map.php"
+      },
+      {
+        "role": "user",
+        "message": "Please make an appointment for me"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Tuesday from morning until 3pm"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Thank you very much"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      },
+      {
+        "role": "user",
+        "message": "Okay, I was excited about tomorrow, "
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "I think this issue is urgent"
+      },
+      {
+        "role": "assistant",
+        "message": "For urgent issues, please contact the Campus Security Center immediately. The contact numbers are 55555 or 06-2381187."
+      },
+      {
+        "role": "user",
+        "message": "Thank you, please, I mqy rather miss the class then, anytime he will be available"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      }
+    ],
+    "target_turn": 12
+  },
+  {
+    "user": "德拉天貝 Thembekile Precious Dlamini",
+    "datetime": "2025-03-14T14:31:41",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Good day\n\nI hope this email finds you well.\n\nPlease help me meet the school director"
+      },
+      {
+        "role": "assistant",
+        "message": "Good day. For directions, please visit this URL: https://nckumap.ncku.edu.tw/map.php"
+      },
+      {
+        "role": "user",
+        "message": "Please make an appointment for me"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Tuesday from morning until 3pm"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Thank you very much"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      },
+      {
+        "role": "user",
+        "message": "Okay, I was excited about tomorrow, "
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "I think this issue is urgent"
+      },
+      {
+        "role": "assistant",
+        "message": "For urgent issues, please contact the Campus Security Center immediately. The contact numbers are 55555 or 06-2381187."
+      },
+      {
+        "role": "user",
+        "message": "Thank you, please, I mqy rather miss the class then, anytime he will be available"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      },
+      {
+        "role": "user",
+        "message": "Thank you,but I have an appointment I cannot miss on Monday morning. May we start at 1pm please"
+      },
+      {
+        "role": "assistant",
+        "message": "It is not within my scope."
+      }
+    ],
+    "target_turn": 14
+  },
+  {
+    "user": "德拉天貝 Thembekile Precious Dlamini",
+    "datetime": "2025-03-14T14:43:55",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Good day\n\nI hope this email finds you well.\n\nPlease help me meet the school director"
+      },
+      {
+        "role": "assistant",
+        "message": "Good day. For directions, please visit this URL: https://nckumap.ncku.edu.tw/map.php"
+      },
+      {
+        "role": "user",
+        "message": "Please make an appointment for me"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Tuesday from morning until 3pm"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Thank you very much"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      },
+      {
+        "role": "user",
+        "message": "Okay, I was excited about tomorrow, "
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "I think this issue is urgent"
+      },
+      {
+        "role": "assistant",
+        "message": "For urgent issues, please contact the Campus Security Center immediately. The contact numbers are 55555 or 06-2381187."
+      },
+      {
+        "role": "user",
+        "message": "Thank you, please, I mqy rather miss the class then, anytime he will be available"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      },
+      {
+        "role": "user",
+        "message": "Thank you,but I have an appointment I cannot miss on Monday morning. May we start at 1pm please"
+      },
+      {
+        "role": "assistant",
+        "message": "It is not within my scope."
+      },
+      {
+        "role": "user",
+        "message": "Thursday, I have 1 class from 1:10-3pm. Any other time is okay"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      }
+    ],
+    "target_turn": 16
+  },
+  {
+    "user": "德拉天貝 Thembekile Precious Dlamini",
+    "datetime": "2025-03-17T11:03:23",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Good day\n\nI hope this email finds you well.\n\nPlease help me meet the school director"
+      },
+      {
+        "role": "assistant",
+        "message": "Good day. For directions, please visit this URL: https://nckumap.ncku.edu.tw/map.php"
+      },
+      {
+        "role": "user",
+        "message": "Please make an appointment for me"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Tuesday from morning until 3pm"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Thank you very much"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      },
+      {
+        "role": "user",
+        "message": "Okay, I was excited about tomorrow, "
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "I think this issue is urgent"
+      },
+      {
+        "role": "assistant",
+        "message": "For urgent issues, please contact the Campus Security Center immediately. The contact numbers are 55555 or 06-2381187."
+      },
+      {
+        "role": "user",
+        "message": "Thank you, please, I mqy rather miss the class then, anytime he will be available"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      },
+      {
+        "role": "user",
+        "message": "Thank you,but I have an appointment I cannot miss on Monday morning. May we start at 1pm please"
+      },
+      {
+        "role": "assistant",
+        "message": "It is not within my scope."
+      },
+      {
+        "role": "user",
+        "message": "Thursday, I have 1 class from 1:10-3pm. Any other time is okay"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Thank you very much. I have already seem your email\n I will be on time"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      }
+    ],
+    "target_turn": 18
+  },
+  {
+    "user": "德拉天貝 Thembekile Precious Dlamini",
+    "datetime": "2025-03-18T12:17:50",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Good day\n\nI hope this email finds you well.\n\nPlease help me meet the school director"
+      },
+      {
+        "role": "assistant",
+        "message": "Good day. For directions, please visit this URL: https://nckumap.ncku.edu.tw/map.php"
+      },
+      {
+        "role": "user",
+        "message": "Please make an appointment for me"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Tuesday from morning until 3pm"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Thank you very much"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      },
+      {
+        "role": "user",
+        "message": "Okay, I was excited about tomorrow, "
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "I think this issue is urgent"
+      },
+      {
+        "role": "assistant",
+        "message": "For urgent issues, please contact the Campus Security Center immediately. The contact numbers are 55555 or 06-2381187."
+      },
+      {
+        "role": "user",
+        "message": "Thank you, please, I mqy rather miss the class then, anytime he will be available"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      },
+      {
+        "role": "user",
+        "message": "Thank you,but I have an appointment I cannot miss on Monday morning. May we start at 1pm please"
+      },
+      {
+        "role": "assistant",
+        "message": "It is not within my scope."
+      },
+      {
+        "role": "user",
+        "message": "Thursday, I have 1 class from 1:10-3pm. Any other time is okay"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Thank you very much. I have already seem your email\n I will be on time"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      },
+      {
+        "role": "user",
+        "message": "Okay"
+      },
+      {
+        "role": "assistant",
+        "message": "Hello! How can I assist you today?"
+      }
+    ],
+    "target_turn": 20
+  },
+  {
+    "user": "德拉天貝 Thembekile Precious Dlamini",
+    "datetime": "2025-03-19T08:44:22",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Good day\n\nI hope this email finds you well.\n\nPlease help me meet the school director"
+      },
+      {
+        "role": "assistant",
+        "message": "Good day. For directions, please visit this URL: https://nckumap.ncku.edu.tw/map.php"
+      },
+      {
+        "role": "user",
+        "message": "Please make an appointment for me"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Tuesday from morning until 3pm"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Thank you very much"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      },
+      {
+        "role": "user",
+        "message": "Okay, I was excited about tomorrow, "
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "I think this issue is urgent"
+      },
+      {
+        "role": "assistant",
+        "message": "For urgent issues, please contact the Campus Security Center immediately. The contact numbers are 55555 or 06-2381187."
+      },
+      {
+        "role": "user",
+        "message": "Thank you, please, I mqy rather miss the class then, anytime he will be available"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      },
+      {
+        "role": "user",
+        "message": "Thank you,but I have an appointment I cannot miss on Monday morning. May we start at 1pm please"
+      },
+      {
+        "role": "assistant",
+        "message": "It is not within my scope."
+      },
+      {
+        "role": "user",
+        "message": "Thursday, I have 1 class from 1:10-3pm. Any other time is okay"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Thank you very much. I have already seem your email\n I will be on time"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      },
+      {
+        "role": "user",
+        "message": "Okay"
+      },
+      {
+        "role": "assistant",
+        "message": "Hello! How can I assist you today?"
+      },
+      {
+        "role": "user",
+        "message": "I am sorry,I am running late,whenplanning my schedule, I forgot that I cant ride a bicycle today"
+      },
+      {
+        "role": "assistant",
+        "message": "It is not within my scope."
+      }
+    ],
+    "target_turn": 22
+  },
+  {
+    "user": "德拉天貝 Thembekile Precious Dlamini",
+    "datetime": "2025-03-19T08:51:00",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Good day\n\nI hope this email finds you well.\n\nPlease help me meet the school director"
+      },
+      {
+        "role": "assistant",
+        "message": "Good day. For directions, please visit this URL: https://nckumap.ncku.edu.tw/map.php"
+      },
+      {
+        "role": "user",
+        "message": "Please make an appointment for me"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Tuesday from morning until 3pm"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Thank you very much"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      },
+      {
+        "role": "user",
+        "message": "Okay, I was excited about tomorrow, "
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "I think this issue is urgent"
+      },
+      {
+        "role": "assistant",
+        "message": "For urgent issues, please contact the Campus Security Center immediately. The contact numbers are 55555 or 06-2381187."
+      },
+      {
+        "role": "user",
+        "message": "Thank you, please, I mqy rather miss the class then, anytime he will be available"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      },
+      {
+        "role": "user",
+        "message": "Thank you,but I have an appointment I cannot miss on Monday morning. May we start at 1pm please"
+      },
+      {
+        "role": "assistant",
+        "message": "It is not within my scope."
+      },
+      {
+        "role": "user",
+        "message": "Thursday, I have 1 class from 1:10-3pm. Any other time is okay"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Thank you very much. I have already seem your email\n I will be on time"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      },
+      {
+        "role": "user",
+        "message": "Okay"
+      },
+      {
+        "role": "assistant",
+        "message": "Hello! How can I assist you today?"
+      },
+      {
+        "role": "user",
+        "message": "I am sorry,I am running late,whenplanning my schedule, I forgot that I cant ride a bicycle today"
+      },
+      {
+        "role": "assistant",
+        "message": "It is not within my scope."
+      },
+      {
+        "role": "user",
+        "message": "I am in Kuangfu campus"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      }
+    ],
+    "target_turn": 24
+  },
+  {
+    "user": "德拉天貝 Thembekile Precious Dlamini",
+    "datetime": "2025-03-20T15:57:37",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Good day\n\nI hope this email finds you well.\n\nPlease help me meet the school director"
+      },
+      {
+        "role": "assistant",
+        "message": "Good day. For directions, please visit this URL: https://nckumap.ncku.edu.tw/map.php"
+      },
+      {
+        "role": "user",
+        "message": "Please make an appointment for me"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Tuesday from morning until 3pm"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Thank you very much"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      },
+      {
+        "role": "user",
+        "message": "Okay, I was excited about tomorrow, "
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "I think this issue is urgent"
+      },
+      {
+        "role": "assistant",
+        "message": "For urgent issues, please contact the Campus Security Center immediately. The contact numbers are 55555 or 06-2381187."
+      },
+      {
+        "role": "user",
+        "message": "Thank you, please, I mqy rather miss the class then, anytime he will be available"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      },
+      {
+        "role": "user",
+        "message": "Thank you,but I have an appointment I cannot miss on Monday morning. May we start at 1pm please"
+      },
+      {
+        "role": "assistant",
+        "message": "It is not within my scope."
+      },
+      {
+        "role": "user",
+        "message": "Thursday, I have 1 class from 1:10-3pm. Any other time is okay"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Thank you very much. I have already seem your email\n I will be on time"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      },
+      {
+        "role": "user",
+        "message": "Okay"
+      },
+      {
+        "role": "assistant",
+        "message": "Hello! How can I assist you today?"
+      },
+      {
+        "role": "user",
+        "message": "I am sorry,I am running late,whenplanning my schedule, I forgot that I cant ride a bicycle today"
+      },
+      {
+        "role": "assistant",
+        "message": "It is not within my scope."
+      },
+      {
+        "role": "user",
+        "message": "I am in Kuangfu campus"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Thank you very much"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      }
+    ],
+    "target_turn": 26
+  },
+  {
+    "user": "德拉天貝 Thembekile Precious Dlamini",
+    "datetime": "2025-03-21T16:33:31",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Good day\n\nI hope this email finds you well.\n\nPlease help me meet the school director"
+      },
+      {
+        "role": "assistant",
+        "message": "Good day. For directions, please visit this URL: https://nckumap.ncku.edu.tw/map.php"
+      },
+      {
+        "role": "user",
+        "message": "Please make an appointment for me"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Tuesday from morning until 3pm"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Thank you very much"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      },
+      {
+        "role": "user",
+        "message": "Okay, I was excited about tomorrow, "
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "I think this issue is urgent"
+      },
+      {
+        "role": "assistant",
+        "message": "For urgent issues, please contact the Campus Security Center immediately. The contact numbers are 55555 or 06-2381187."
+      },
+      {
+        "role": "user",
+        "message": "Thank you, please, I mqy rather miss the class then, anytime he will be available"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      },
+      {
+        "role": "user",
+        "message": "Thank you,but I have an appointment I cannot miss on Monday morning. May we start at 1pm please"
+      },
+      {
+        "role": "assistant",
+        "message": "It is not within my scope."
+      },
+      {
+        "role": "user",
+        "message": "Thursday, I have 1 class from 1:10-3pm. Any other time is okay"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Thank you very much. I have already seem your email\n I will be on time"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      },
+      {
+        "role": "user",
+        "message": "Okay"
+      },
+      {
+        "role": "assistant",
+        "message": "Hello! How can I assist you today?"
+      },
+      {
+        "role": "user",
+        "message": "I am sorry,I am running late,whenplanning my schedule, I forgot that I cant ride a bicycle today"
+      },
+      {
+        "role": "assistant",
+        "message": "It is not within my scope."
+      },
+      {
+        "role": "user",
+        "message": "I am in Kuangfu campus"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Thank you very much"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      },
+      {
+        "role": "user",
+        "message": "Please help the applicant, is undergraduate applicant, got this message but she does not have these certificates.\n\nWhat should she send?"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff for guidance on what documents to send if you do not have the required certificates."
+      }
+    ],
+    "target_turn": 28
+  },
+  {
+    "user": "方資傑 FONG ZI JIE",
+    "datetime": "2025-03-19T21:58:29",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "想請問如果已領取教育部清寒助學金，可否再申請其他「非政府」所發放的助學金呀？"
+      },
+      {
+        "role": "assistant",
+        "message": "可以，只要符合申請資格，獎學金都可以一起申請。詳情請參閱各項獎學金申請細則。"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "方資傑 FONG ZI JIE",
+    "datetime": "2025-03-19T21:59:32",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "想請問如果已領取教育部清寒助學金，可否再申請其他「非政府」所發放的助學金呀？"
+      },
+      {
+        "role": "assistant",
+        "message": "可以，只要符合申請資格，獎學金都可以一起申請。詳情請參閱各項獎學金申請細則。"
+      },
+      {
+        "role": "user",
+        "message": "「不得重複領取」的嚴謹度具體有多高？"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      }
+    ],
+    "target_turn": 2
+  },
+  {
+    "user": "易佑滿 I Nyoman Natanael",
+    "datetime": "2025-03-20T15:00:30",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "good afternoon.. i'd like to ask information about applying for a  working permit through the Workforce Development Agency"
+      },
+      {
+        "role": "assistant",
+        "message": "Good afternoon. You can apply for a working permit through the Workforce Development Agency by visiting this link: https://ezwp.wda.gov.tw. Please refer to Attachment One for the operation manual. If you have any questions, it is recommended to ask the International Office staff."
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "木珊蘿 MOHAMMED-HASAN LULAW",
+    "datetime": "2025-03-19T08:35:40",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Good morning miss callista\n\nI have received your e-mail, first i thank you for thinking about my issue.\n\nSecond i would like to ask if it’s possible to have an online meeting?\n\nBecause after this happened i went back home cause i lost all my hope, quite feel infair,\nBut if necessary i will fly to taiwan\n\n\nLooking forward for you reply thank you"
+      },
+      {
+        "role": "assistant",
+        "message": "早安，Callista小姐\n\n我已經收到您的電子郵件，首先感謝您關心我的問題。\n\n其次，我想詢問是否可以安排線上會議？因為事情發生後，我回到了家裡，感到非常失望和不公平，但如果有必要，我會飛回台灣。\n\n期待您的回覆，謝謝。"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "木珊蘿 MOHAMMED-HASAN LULAW",
+    "datetime": "2025-03-19T08:56:32",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Good morning miss callista\n\nI have received your e-mail, first i thank you for thinking about my issue.\n\nSecond i would like to ask if it’s possible to have an online meeting?\n\nBecause after this happened i went back home cause i lost all my hope, quite feel infair,\nBut if necessary i will fly to taiwan\n\n\nLooking forward for you reply thank you"
+      },
+      {
+        "role": "assistant",
+        "message": "早安，Callista小姐\n\n我已經收到您的電子郵件，首先感謝您關心我的問題。\n\n其次，我想詢問是否可以安排線上會議？因為事情發生後，我回到了家裡，感到非常失望和不公平，但如果有必要，我會飛回台灣。\n\n期待您的回覆，謝謝。"
+      },
+      {
+        "role": "user",
+        "message": "Thank you,\n\nDont worry i can adjust to your time, any time would be suitable for me."
+      },
+      {
+        "role": "assistant",
+        "message": "謝謝您。"
+      }
+    ],
+    "target_turn": 2
+  },
+  {
+    "user": "木珊蘿 MOHAMMED-HASAN LULAW",
+    "datetime": "2025-03-19T09:15:53",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Good morning miss callista\n\nI have received your e-mail, first i thank you for thinking about my issue.\n\nSecond i would like to ask if it’s possible to have an online meeting?\n\nBecause after this happened i went back home cause i lost all my hope, quite feel infair,\nBut if necessary i will fly to taiwan\n\n\nLooking forward for you reply thank you"
+      },
+      {
+        "role": "assistant",
+        "message": "早安，Callista小姐\n\n我已經收到您的電子郵件，首先感謝您關心我的問題。\n\n其次，我想詢問是否可以安排線上會議？因為事情發生後，我回到了家裡，感到非常失望和不公平，但如果有必要，我會飛回台灣。\n\n期待您的回覆，謝謝。"
+      },
+      {
+        "role": "user",
+        "message": "Thank you,\n\nDont worry i can adjust to your time, any time would be suitable for me."
+      },
+      {
+        "role": "assistant",
+        "message": "謝謝您。"
+      },
+      {
+        "role": "user",
+        "message": "Okk"
+      },
+      {
+        "role": "assistant",
+        "message": "你好！有什麼我可以幫忙的嗎？"
+      }
+    ],
+    "target_turn": 4
+  },
+  {
+    "user": "木珊蘿 MOHAMMED-HASAN LULAW",
+    "datetime": "2025-03-21T09:57:06",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Good morning miss callista\n\nI have received your e-mail, first i thank you for thinking about my issue.\n\nSecond i would like to ask if it’s possible to have an online meeting?\n\nBecause after this happened i went back home cause i lost all my hope, quite feel infair,\nBut if necessary i will fly to taiwan\n\n\nLooking forward for you reply thank you"
+      },
+      {
+        "role": "assistant",
+        "message": "早安，Callista小姐\n\n我已經收到您的電子郵件，首先感謝您關心我的問題。\n\n其次，我想詢問是否可以安排線上會議？因為事情發生後，我回到了家裡，感到非常失望和不公平，但如果有必要，我會飛回台灣。\n\n期待您的回覆，謝謝。"
+      },
+      {
+        "role": "user",
+        "message": "Thank you,\n\nDont worry i can adjust to your time, any time would be suitable for me."
+      },
+      {
+        "role": "assistant",
+        "message": "謝謝您。"
+      },
+      {
+        "role": "user",
+        "message": "Okk"
+      },
+      {
+        "role": "assistant",
+        "message": "你好！有什麼我可以幫忙的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "Thank you very much,\n\nI was in taiwan 2 weeks ago unfortunately, \nThe ticket is so expensive and my way is 3 days so its hard.\n\nHowever if my issues are solved i will come"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      }
+    ],
+    "target_turn": 6
+  },
+  {
+    "user": "木珊蘿 MOHAMMED-HASAN LULAW",
+    "datetime": "2025-03-21T09:57:19",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Good morning miss callista\n\nI have received your e-mail, first i thank you for thinking about my issue.\n\nSecond i would like to ask if it’s possible to have an online meeting?\n\nBecause after this happened i went back home cause i lost all my hope, quite feel infair,\nBut if necessary i will fly to taiwan\n\n\nLooking forward for you reply thank you"
+      },
+      {
+        "role": "assistant",
+        "message": "早安，Callista小姐\n\n我已經收到您的電子郵件，首先感謝您關心我的問題。\n\n其次，我想詢問是否可以安排線上會議？因為事情發生後，我回到了家裡，感到非常失望和不公平，但如果有必要，我會飛回台灣。\n\n期待您的回覆，謝謝。"
+      },
+      {
+        "role": "user",
+        "message": "Thank you,\n\nDont worry i can adjust to your time, any time would be suitable for me."
+      },
+      {
+        "role": "assistant",
+        "message": "謝謝您。"
+      },
+      {
+        "role": "user",
+        "message": "Okk"
+      },
+      {
+        "role": "assistant",
+        "message": "你好！有什麼我可以幫忙的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "Thank you very much,\n\nI was in taiwan 2 weeks ago unfortunately, \nThe ticket is so expensive and my way is 3 days so its hard.\n\nHowever if my issues are solved i will come"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      },
+      {
+        "role": "user",
+        "message": "Is anything important for me to come?"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您詢問國際事務處的工作人員。"
+      }
+    ],
+    "target_turn": 8
+  },
+  {
+    "user": "木珊蘿 MOHAMMED-HASAN LULAW",
+    "datetime": "2025-03-21T11:59:01",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Good morning miss callista\n\nI have received your e-mail, first i thank you for thinking about my issue.\n\nSecond i would like to ask if it’s possible to have an online meeting?\n\nBecause after this happened i went back home cause i lost all my hope, quite feel infair,\nBut if necessary i will fly to taiwan\n\n\nLooking forward for you reply thank you"
+      },
+      {
+        "role": "assistant",
+        "message": "早安，Callista小姐\n\n我已經收到您的電子郵件，首先感謝您關心我的問題。\n\n其次，我想詢問是否可以安排線上會議？因為事情發生後，我回到了家裡，感到非常失望和不公平，但如果有必要，我會飛回台灣。\n\n期待您的回覆，謝謝。"
+      },
+      {
+        "role": "user",
+        "message": "Thank you,\n\nDont worry i can adjust to your time, any time would be suitable for me."
+      },
+      {
+        "role": "assistant",
+        "message": "謝謝您。"
+      },
+      {
+        "role": "user",
+        "message": "Okk"
+      },
+      {
+        "role": "assistant",
+        "message": "你好！有什麼我可以幫忙的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "Thank you very much,\n\nI was in taiwan 2 weeks ago unfortunately, \nThe ticket is so expensive and my way is 3 days so its hard.\n\nHowever if my issues are solved i will come"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      },
+      {
+        "role": "user",
+        "message": "Is anything important for me to come?"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "Yes because of transit time,\nThe ticket is so expensive so i have 2 transit.\n15 hour dubai, 16 hour in shanghai. In between 12 hour flight+2 hour flight + 2 hour flight.\n2 hour train\n2 hour by car\n"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的範圍內，建議詢問國際事務處的工作人員。"
+      }
+    ],
+    "target_turn": 10
+  },
+  {
+    "user": "木珊蘿 MOHAMMED-HASAN LULAW",
+    "datetime": "2025-03-21T11:59:48",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Good morning miss callista\n\nI have received your e-mail, first i thank you for thinking about my issue.\n\nSecond i would like to ask if it’s possible to have an online meeting?\n\nBecause after this happened i went back home cause i lost all my hope, quite feel infair,\nBut if necessary i will fly to taiwan\n\n\nLooking forward for you reply thank you"
+      },
+      {
+        "role": "assistant",
+        "message": "早安，Callista小姐\n\n我已經收到您的電子郵件，首先感謝您關心我的問題。\n\n其次，我想詢問是否可以安排線上會議？因為事情發生後，我回到了家裡，感到非常失望和不公平，但如果有必要，我會飛回台灣。\n\n期待您的回覆，謝謝。"
+      },
+      {
+        "role": "user",
+        "message": "Thank you,\n\nDont worry i can adjust to your time, any time would be suitable for me."
+      },
+      {
+        "role": "assistant",
+        "message": "謝謝您。"
+      },
+      {
+        "role": "user",
+        "message": "Okk"
+      },
+      {
+        "role": "assistant",
+        "message": "你好！有什麼我可以幫忙的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "Thank you very much,\n\nI was in taiwan 2 weeks ago unfortunately, \nThe ticket is so expensive and my way is 3 days so its hard.\n\nHowever if my issues are solved i will come"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      },
+      {
+        "role": "user",
+        "message": "Is anything important for me to come?"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "Yes because of transit time,\nThe ticket is so expensive so i have 2 transit.\n15 hour dubai, 16 hour in shanghai. In between 12 hour flight+2 hour flight + 2 hour flight.\n2 hour train\n2 hour by car\n"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的範圍內，建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "Im from Austria but\nCurrently im teaching in iraq-Kurdistan.\nMy research was targeting middle east area"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您聯絡國際處境外生與學人事務組的郭小姐，Email: 11202055@gs.ncku.edu.tw。"
+      }
+    ],
+    "target_turn": 12
+  },
+  {
+    "user": "木珊蘿 MOHAMMED-HASAN LULAW",
+    "datetime": "2025-03-21T12:06:17",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Good morning miss callista\n\nI have received your e-mail, first i thank you for thinking about my issue.\n\nSecond i would like to ask if it’s possible to have an online meeting?\n\nBecause after this happened i went back home cause i lost all my hope, quite feel infair,\nBut if necessary i will fly to taiwan\n\n\nLooking forward for you reply thank you"
+      },
+      {
+        "role": "assistant",
+        "message": "早安，Callista小姐\n\n我已經收到您的電子郵件，首先感謝您關心我的問題。\n\n其次，我想詢問是否可以安排線上會議？因為事情發生後，我回到了家裡，感到非常失望和不公平，但如果有必要，我會飛回台灣。\n\n期待您的回覆，謝謝。"
+      },
+      {
+        "role": "user",
+        "message": "Thank you,\n\nDont worry i can adjust to your time, any time would be suitable for me."
+      },
+      {
+        "role": "assistant",
+        "message": "謝謝您。"
+      },
+      {
+        "role": "user",
+        "message": "Okk"
+      },
+      {
+        "role": "assistant",
+        "message": "你好！有什麼我可以幫忙的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "Thank you very much,\n\nI was in taiwan 2 weeks ago unfortunately, \nThe ticket is so expensive and my way is 3 days so its hard.\n\nHowever if my issues are solved i will come"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      },
+      {
+        "role": "user",
+        "message": "Is anything important for me to come?"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "Yes because of transit time,\nThe ticket is so expensive so i have 2 transit.\n15 hour dubai, 16 hour in shanghai. In between 12 hour flight+2 hour flight + 2 hour flight.\n2 hour train\n2 hour by car\n"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的範圍內，建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "Im from Austria but\nCurrently im teaching in iraq-Kurdistan.\nMy research was targeting middle east area"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您聯絡國際處境外生與學人事務組的郭小姐，Email: 11202055@gs.ncku.edu.tw。"
+      },
+      {
+        "role": "user",
+        "message": "My callista i do appreciate your help very much.\nYou know i lost alot of time as a phd student.\n\nEven in taiwan my life was very hard during study but i felt no humanity on campus relating to my feelings.\nEveryday i had to walk over 1 hour to campus and back home, under sun, under heavy rain. & I support my own financial which is hard adding to my study load, i finished alllll my courses only research is left\n\nI learned everything by myself, and just because i complained to my department that my advisor does nothing and i want to change my field from finance to management in international business \n\nThey all agree that nobody will be my advisor and i should change to another institute, which is totally not fair cause i have done no single mistakes during my study, i didnt even take money from my advisor like many others. \nI just dont want to start from 0 again , i am in my 4th year\nI spent sooo much effort,time and money."
+      },
+      {
+        "role": "assistant",
+        "message": "很抱歉聽到你在學習過程中遇到這麼多困難。針對你的情況，建議你可以向「學生申訴評議委員會」提出申訴，以保障你的權益。你可以在收到學校的處分書後，於次日起十日內以書面形式提交申訴。【申訴申請書下載（https://oia.ncku.edu.tw/var/file/32/1032/img/241880225.doc）】如果有任何疑問或需要進一步協助，建議聯繫國際事務處的工作人員。他們能提供更詳細和專業的幫助。"
+      }
+    ],
+    "target_turn": 14
+  },
+  {
+    "user": "木珊蘿 MOHAMMED-HASAN LULAW",
+    "datetime": "2025-03-21T12:06:54",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Good morning miss callista\n\nI have received your e-mail, first i thank you for thinking about my issue.\n\nSecond i would like to ask if it’s possible to have an online meeting?\n\nBecause after this happened i went back home cause i lost all my hope, quite feel infair,\nBut if necessary i will fly to taiwan\n\n\nLooking forward for you reply thank you"
+      },
+      {
+        "role": "assistant",
+        "message": "早安，Callista小姐\n\n我已經收到您的電子郵件，首先感謝您關心我的問題。\n\n其次，我想詢問是否可以安排線上會議？因為事情發生後，我回到了家裡，感到非常失望和不公平，但如果有必要，我會飛回台灣。\n\n期待您的回覆，謝謝。"
+      },
+      {
+        "role": "user",
+        "message": "Thank you,\n\nDont worry i can adjust to your time, any time would be suitable for me."
+      },
+      {
+        "role": "assistant",
+        "message": "謝謝您。"
+      },
+      {
+        "role": "user",
+        "message": "Okk"
+      },
+      {
+        "role": "assistant",
+        "message": "你好！有什麼我可以幫忙的嗎？"
+      },
+      {
+        "role": "user",
+        "message": "Thank you very much,\n\nI was in taiwan 2 weeks ago unfortunately, \nThe ticket is so expensive and my way is 3 days so its hard.\n\nHowever if my issues are solved i will come"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      },
+      {
+        "role": "user",
+        "message": "Is anything important for me to come?"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "Yes because of transit time,\nThe ticket is so expensive so i have 2 transit.\n15 hour dubai, 16 hour in shanghai. In between 12 hour flight+2 hour flight + 2 hour flight.\n2 hour train\n2 hour by car\n"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的範圍內，建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "Im from Austria but\nCurrently im teaching in iraq-Kurdistan.\nMy research was targeting middle east area"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您聯絡國際處境外生與學人事務組的郭小姐，Email: 11202055@gs.ncku.edu.tw。"
+      },
+      {
+        "role": "user",
+        "message": "My callista i do appreciate your help very much.\nYou know i lost alot of time as a phd student.\n\nEven in taiwan my life was very hard during study but i felt no humanity on campus relating to my feelings.\nEveryday i had to walk over 1 hour to campus and back home, under sun, under heavy rain. & I support my own financial which is hard adding to my study load, i finished alllll my courses only research is left\n\nI learned everything by myself, and just because i complained to my department that my advisor does nothing and i want to change my field from finance to management in international business \n\nThey all agree that nobody will be my advisor and i should change to another institute, which is totally not fair cause i have done no single mistakes during my study, i didnt even take money from my advisor like many others. \nI just dont want to start from 0 again , i am in my 4th year\nI spent sooo much effort,time and money."
+      },
+      {
+        "role": "assistant",
+        "message": "很抱歉聽到你在學習過程中遇到這麼多困難。針對你的情況，建議你可以向「學生申訴評議委員會」提出申訴，以保障你的權益。你可以在收到學校的處分書後，於次日起十日內以書面形式提交申訴。【申訴申請書下載（https://oia.ncku.edu.tw/var/file/32/1032/img/241880225.doc）】如果有任何疑問或需要進一步協助，建議聯繫國際事務處的工作人員。他們能提供更詳細和專業的幫助。"
+      },
+      {
+        "role": "user",
+        "message": "I hope you can find a solution for me, i really did nothing wrong except to speak up for myself \n\n☀️😕"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您向「學生申訴評議委員會」提出申訴。請在收到學校的處分書後，於次日起十日內以書面形式提交申訴。【申訴申請書下載（https://oia.ncku.edu.tw/var/file/32/1032/img/241880225.doc）】"
+      }
+    ],
+    "target_turn": 16
+  },
+  {
+    "user": "李亮 Muhamamad Asim",
+    "datetime": "2025-03-24T14:54:19",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hi phD students how much stipend will recieve for distinguished scholarship?"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff for information regarding the stipend amount for PhD students receiving a distinguished scholarship."
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "李品叡 LEE PIN RUI",
+    "datetime": "2025-03-20T13:46:53",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "您好，請問大一僑生的健保卡是要自己去申請的嗎？ (?)"
+      },
+      {
+        "role": "assistant",
+        "message": "您好，大一僑生的健保卡不需要自己去申請。取得台灣居留證開始計算183天，中途沒有離開台灣超過1次且天數沒超過30天，學校便會自動為同學申請健保卡。如未達以上任一條件，便會重新計算。"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "李品叡 LEE PIN RUI",
+    "datetime": "2025-03-20T13:49:11",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "您好，請問大一僑生的健保卡是要自己去申請的嗎？ (?)"
+      },
+      {
+        "role": "assistant",
+        "message": "您好，大一僑生的健保卡不需要自己去申請。取得台灣居留證開始計算183天，中途沒有離開台灣超過1次且天數沒超過30天，學校便會自動為同學申請健保卡。如未達以上任一條件，便會重新計算。"
+      },
+      {
+        "role": "user",
+        "message": "那屆時會是到OSSS領取嗎？"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      }
+    ],
+    "target_turn": 2
+  },
+  {
+    "user": "李美香 Sitti Nurhadijah",
+    "datetime": "2025-03-26T08:10:41",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Good Morning,\nI am Sitti, I would like to enquire about my tuition fee payment, as it is still a credit fee payment. The bill from the system is only 18,000 NTD, while I have moved to the MOE scholarship. Thank you in advance "
+      },
+      {
+        "role": "assistant",
+        "message": "Good Morning, Sitti. It is recommended to ask the International Office staff about your tuition fee payment and any discrepancies related to your MOE scholarship. Thank you."
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "杜文貴 DO VAN QUY",
+    "datetime": "2025-03-26T10:39:28",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hi, I am Do Van Quy from the BME department, and my student ID is P86137040. I enrolled in the spring semester of 2024, and for the spring semester of 2025, I have completed the renewal and am listed in the \"2025 Spring NCKU Distinguished Students Scholarship Awardees List.\"\nI am writing to inquire about any changes to my scholarship. Specifically, I would like to know about the tuition fees, monthly expenses, and other related matters for the upcoming academic year.\nI look forward to receiving your response.\nThank you."
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff for detailed information regarding any changes to your scholarship, tuition fees, monthly expenses, and other related matters for the upcoming academic year."
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "柯",
+    "datetime": "2025-03-25T20:14:15",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "你好"
+      },
+      {
+        "role": "assistant",
+        "message": "你好！有什麼我可以幫忙的嗎？"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "梁家銓 GILBERT KARLSEN LYON",
+    "datetime": "2025-03-13T08:56:08",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "好的"
+      },
+      {
+        "role": "assistant",
+        "message": "好的。"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "梁家銓 GILBERT KARLSEN LYON",
+    "datetime": "2025-03-17T14:52:42",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "好的"
+      },
+      {
+        "role": "assistant",
+        "message": "好的。"
+      },
+      {
+        "role": "user",
+        "message": "我快下課了，會馬上過去領錢"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的範圍內，建議詢問國際事務處的工作人員。"
+      }
+    ],
+    "target_turn": 2
+  },
+  {
+    "user": "梁家銓 GILBERT KARLSEN LYON",
+    "datetime": "2025-03-20T10:25:56",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "好的"
+      },
+      {
+        "role": "assistant",
+        "message": "好的。"
+      },
+      {
+        "role": "user",
+        "message": "我快下課了，會馬上過去領錢"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的範圍內，建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "好的~"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      }
+    ],
+    "target_turn": 4
+  },
+  {
+    "user": "梁家銓 GILBERT KARLSEN LYON",
+    "datetime": "2025-03-20T10:26:53",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "好的"
+      },
+      {
+        "role": "assistant",
+        "message": "好的。"
+      },
+      {
+        "role": "user",
+        "message": "我快下課了，會馬上過去領錢"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的範圍內，建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "好的~"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      },
+      {
+        "role": "user",
+        "message": "4977元"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      }
+    ],
+    "target_turn": 6
+  },
+  {
+    "user": "梁家銓 GILBERT KARLSEN LYON",
+    "datetime": "2025-03-20T11:50:17",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "好的"
+      },
+      {
+        "role": "assistant",
+        "message": "好的。"
+      },
+      {
+        "role": "user",
+        "message": "我快下課了，會馬上過去領錢"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的範圍內，建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "好的~"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      },
+      {
+        "role": "user",
+        "message": "4977元"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "春遊保險收據嗎？"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的服務範圍內，建議詢問國際事務處的工作人員。"
+      }
+    ],
+    "target_turn": 8
+  },
+  {
+    "user": "梁家銓 GILBERT KARLSEN LYON",
+    "datetime": "2025-03-20T11:58:20",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "好的"
+      },
+      {
+        "role": "assistant",
+        "message": "好的。"
+      },
+      {
+        "role": "user",
+        "message": "我快下課了，會馬上過去領錢"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的範圍內，建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "好的~"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      },
+      {
+        "role": "user",
+        "message": "4977元"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "春遊保險收據嗎？"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的服務範圍內，建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "啊啊 對對"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的服務範圍內。"
+      }
+    ],
+    "target_turn": 10
+  },
+  {
+    "user": "梁家銓 GILBERT KARLSEN LYON",
+    "datetime": "2025-03-20T12:00:17",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "好的"
+      },
+      {
+        "role": "assistant",
+        "message": "好的。"
+      },
+      {
+        "role": "user",
+        "message": "我快下課了，會馬上過去領錢"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的範圍內，建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "好的~"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      },
+      {
+        "role": "user",
+        "message": "4977元"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "春遊保險收據嗎？"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的服務範圍內，建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "啊啊 對對"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的服務範圍內。"
+      },
+      {
+        "role": "user",
+        "message": "可以 沒問題"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的範圍內，建議詢問國際處的工作人員。"
+      }
+    ],
+    "target_turn": 12
+  },
+  {
+    "user": "梁家銓 GILBERT KARLSEN LYON",
+    "datetime": "2025-03-20T12:17:33",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "好的"
+      },
+      {
+        "role": "assistant",
+        "message": "好的。"
+      },
+      {
+        "role": "user",
+        "message": "我快下課了，會馬上過去領錢"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的範圍內，建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "好的~"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      },
+      {
+        "role": "user",
+        "message": "4977元"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "春遊保險收據嗎？"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的服務範圍內，建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "啊啊 對對"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的服務範圍內。"
+      },
+      {
+        "role": "user",
+        "message": "可以 沒問題"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的範圍內，建議詢問國際處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "嗯 一定會的"
+      },
+      {
+        "role": "assistant",
+        "message": "好的。"
+      }
+    ],
+    "target_turn": 14
+  },
+  {
+    "user": "梁家銓 GILBERT KARLSEN LYON",
+    "datetime": "2025-03-20T12:17:36",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "好的"
+      },
+      {
+        "role": "assistant",
+        "message": "好的。"
+      },
+      {
+        "role": "user",
+        "message": "我快下課了，會馬上過去領錢"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的範圍內，建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "好的~"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      },
+      {
+        "role": "user",
+        "message": "4977元"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "春遊保險收據嗎？"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的服務範圍內，建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "啊啊 對對"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的服務範圍內。"
+      },
+      {
+        "role": "user",
+        "message": "可以 沒問題"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的範圍內，建議詢問國際處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "嗯 一定會的"
+      },
+      {
+        "role": "assistant",
+        "message": "好的。"
+      },
+      {
+        "role": "user",
+        "message": "好的"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      }
+    ],
+    "target_turn": 16
+  },
+  {
+    "user": "梁家銓 GILBERT KARLSEN LYON",
+    "datetime": "2025-03-24T16:28:33",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "好的"
+      },
+      {
+        "role": "assistant",
+        "message": "好的。"
+      },
+      {
+        "role": "user",
+        "message": "我快下課了，會馬上過去領錢"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的範圍內，建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "好的~"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      },
+      {
+        "role": "user",
+        "message": "4977元"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "春遊保險收據嗎？"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的服務範圍內，建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "啊啊 對對"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的服務範圍內。"
+      },
+      {
+        "role": "user",
+        "message": "可以 沒問題"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的範圍內，建議詢問國際處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "嗯 一定會的"
+      },
+      {
+        "role": "assistant",
+        "message": "好的。"
+      },
+      {
+        "role": "user",
+        "message": "好的"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      },
+      {
+        "role": "user",
+        "message": "用保險名單可以嗎？"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      }
+    ],
+    "target_turn": 18
+  },
+  {
+    "user": "梁家銓 GILBERT KARLSEN LYON",
+    "datetime": "2025-03-27T12:36:07",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "好的"
+      },
+      {
+        "role": "assistant",
+        "message": "好的。"
+      },
+      {
+        "role": "user",
+        "message": "我快下課了，會馬上過去領錢"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的範圍內，建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "好的~"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      },
+      {
+        "role": "user",
+        "message": "4977元"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "春遊保險收據嗎？"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的服務範圍內，建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "啊啊 對對"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的服務範圍內。"
+      },
+      {
+        "role": "user",
+        "message": "可以 沒問題"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的範圍內，建議詢問國際處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "嗯 一定會的"
+      },
+      {
+        "role": "assistant",
+        "message": "好的。"
+      },
+      {
+        "role": "user",
+        "message": "好的"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      },
+      {
+        "role": "user",
+        "message": "用保險名單可以嗎？"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "姐姐你好，我4/3~4/5要借照相機可以嗎？"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您詢問國際事務處的工作人員。"
+      }
+    ],
+    "target_turn": 20
+  },
+  {
+    "user": "梁家銓 GILBERT KARLSEN LYON",
+    "datetime": "2025-03-27T12:36:27",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "好的"
+      },
+      {
+        "role": "assistant",
+        "message": "好的。"
+      },
+      {
+        "role": "user",
+        "message": "我快下課了，會馬上過去領錢"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的範圍內，建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "好的~"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      },
+      {
+        "role": "user",
+        "message": "4977元"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "春遊保險收據嗎？"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的服務範圍內，建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "啊啊 對對"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的服務範圍內。"
+      },
+      {
+        "role": "user",
+        "message": "可以 沒問題"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的範圍內，建議詢問國際處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "嗯 一定會的"
+      },
+      {
+        "role": "assistant",
+        "message": "好的。"
+      },
+      {
+        "role": "user",
+        "message": "好的"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      },
+      {
+        "role": "user",
+        "message": "用保險名單可以嗎？"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "姐姐你好，我4/3~4/5要借照相機可以嗎？"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "如果可以我們要借3個"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的回答範圍內，建議詢問國際事務處的工作人員。"
+      }
+    ],
+    "target_turn": 22
+  },
+  {
+    "user": "梁家銓 GILBERT KARLSEN LYON",
+    "datetime": "2025-03-27T13:13:45",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "好的"
+      },
+      {
+        "role": "assistant",
+        "message": "好的。"
+      },
+      {
+        "role": "user",
+        "message": "我快下課了，會馬上過去領錢"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的範圍內，建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "好的~"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      },
+      {
+        "role": "user",
+        "message": "4977元"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "春遊保險收據嗎？"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的服務範圍內，建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "啊啊 對對"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的服務範圍內。"
+      },
+      {
+        "role": "user",
+        "message": "可以 沒問題"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的範圍內，建議詢問國際處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "嗯 一定會的"
+      },
+      {
+        "role": "assistant",
+        "message": "好的。"
+      },
+      {
+        "role": "user",
+        "message": "好的"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      },
+      {
+        "role": "user",
+        "message": "用保險名單可以嗎？"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "姐姐你好，我4/3~4/5要借照相機可以嗎？"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "如果可以我們要借3個"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的回答範圍內，建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "好的 兩臺就可以了"
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的服務範圍內，建議您詢問國際事務處的工作人員。"
+      }
+    ],
+    "target_turn": 24
+  },
+  {
+    "user": "楊靜瑄 JONG JING XUAN",
+    "datetime": "2025-03-25T17:59:13",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "好的谢谢你！"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "瀨谷友佳子 SEYA YUKAKO",
+    "datetime": "2025-03-20T08:28:09",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "好的 謝謝"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "王順寶 NATASHYA ROSALIA WONGSO",
+    "datetime": "2025-03-21T09:17:09",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "想問6/4的彩排時間是整天嗎？因為我那天有期末考🥲"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "田代櫻子 TASHIRO　SAKURAKO",
+    "datetime": "2025-03-17T10:57:35",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "我每天確認國際處的獎學金廣告，但是還沒發名單，你們也知道什麼時候開拿到獎學金的人的名單？\n麻煩你了"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您詢問國際事務處的工作人員，他們會有更準確的信息。"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "田代櫻子 TASHIRO　SAKURAKO",
+    "datetime": "2025-03-17T10:57:56",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "我每天確認國際處的獎學金廣告，但是還沒發名單，你們也知道什麼時候開拿到獎學金的人的名單？\n麻煩你了"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您詢問國際事務處的工作人員，他們會有更準確的信息。"
+      },
+      {
+        "role": "user",
+        "message": "知道了，謝謝"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      }
+    ],
+    "target_turn": 2
+  },
+  {
+    "user": "田代櫻子 TASHIRO　SAKURAKO",
+    "datetime": "2025-03-24T10:39:53",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "我每天確認國際處的獎學金廣告，但是還沒發名單，你們也知道什麼時候開拿到獎學金的人的名單？\n麻煩你了"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您詢問國際事務處的工作人員，他們會有更準確的信息。"
+      },
+      {
+        "role": "user",
+        "message": "知道了，謝謝"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      },
+      {
+        "role": "user",
+        "message": "我看到獎學金名單，我想問一下，那個獎學金的第一名到第20名可以拿到多少錢？"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您詢問國際事務處的工作人員。"
+      }
+    ],
+    "target_turn": 4
+  },
+  {
+    "user": "田代櫻子 TASHIRO　SAKURAKO",
+    "datetime": "2025-03-24T10:40:14",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "我每天確認國際處的獎學金廣告，但是還沒發名單，你們也知道什麼時候開拿到獎學金的人的名單？\n麻煩你了"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您詢問國際事務處的工作人員，他們會有更準確的信息。"
+      },
+      {
+        "role": "user",
+        "message": "知道了，謝謝"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      },
+      {
+        "role": "user",
+        "message": "我看到獎學金名單，我想問一下，那個獎學金的第一名到第20名可以拿到多少錢？"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "好的"
+      },
+      {
+        "role": "assistant",
+        "message": "好的。"
+      }
+    ],
+    "target_turn": 6
+  },
+  {
+    "user": "畢雷漢 Villanueva Collar Ariel Alejandro",
+    "datetime": "2025-03-13T21:03:39",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "I need someone to read my text message "
+      },
+      {
+        "role": "assistant",
+        "message": "It is not within my scope."
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "竹村天 TAKEMURA SORA",
+    "datetime": "2025-03-24T08:38:18",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "好的，謝謝！！"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "胡欣彤 WOO YUN TUNG BONNIE",
+    "datetime": "2025-03-21T15:51:24",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "您好\n我是碩二的香港學生，因家人即將要做手術，所以預計在四月底的時候我需要離台回港30日並會向系所請假\n想要確認一下，請問離台30日後，是否只要居留證還在有效期內，就可以用居留證入境台灣？\n而健保卡回台後也仍然生效？"
+      },
+      {
+        "role": "assistant",
+        "message": "您好，建議您向國際事務處的工作人員詢問這個問題。"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "莊詠晰 CHUANG, YUNG-HSI",
+    "datetime": "2025-03-20T15:02:04",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hi"
+      },
+      {
+        "role": "assistant",
+        "message": "你好"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "蕭市江 Siu Ramos Hugo Ernesto",
+    "datetime": "2025-03-18T15:42:31",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "(emoji)"
+      },
+      {
+        "role": "assistant",
+        "message": "Hello! How can I assist you today?"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "藍怡如 LAN SELINA",
+    "datetime": "2025-03-24T09:34:30",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "您好，我想問一下 關於114年的新生入學註冊是什麼時候呢？ "
+      },
+      {
+        "role": "assistant",
+        "message": "建議您詢問國際事務處的工作人員。"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "蘇珊妮 VIVIAN ALLYSA SU",
+    "datetime": "2025-03-26T10:05:01",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "你好，好的謝謝"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "袁一由 YEAN YI YU",
+    "datetime": "2025-03-18T09:03:54",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "你好，我想諮詢健保事宜。說是來台180天後，才可以申請拿到健保，我想知道我滿足條件了嗎？\n\nyeanyiyu\nD900202835\nK16137018"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您向國際事務處的工作人員詢問是否已滿足條件，因為他們可以根據您的具體情況提供準確的信息。"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "袁一由 YEAN YI YU",
+    "datetime": "2025-03-18T09:04:23",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "你好，我想諮詢健保事宜。說是來台180天後，才可以申請拿到健保，我想知道我滿足條件了嗎？\n\nyeanyiyu\nD900202835\nK16137018"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您向國際事務處的工作人員詢問是否已滿足條件，因為他們可以根據您的具體情況提供準確的信息。"
+      },
+      {
+        "role": "user",
+        "message": "國際事務處，負責健保的人員聯絡方式"
+      },
+      {
+        "role": "assistant",
+        "message": "國際事務處，負責健保的人員聯絡方式是 em50460@email.ncku.edu.tw"
+      }
+    ],
+    "target_turn": 2
+  },
+  {
+    "user": "許安 Koh An",
+    "datetime": "2025-03-26T15:37:07",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "午安~！\n想請問相關獎學金的處理辦法(´･∀･`)\n感謝鴨~~"
+      },
+      {
+        "role": "assistant",
+        "message": "午安~！關於獎學金的處理辦法，您可以參考以下資訊：\n\n1. 獎學金申請時間：原則上每年2/1-3/31日為受理申請期間。實際受理申請期間以我國駐外館處公告簡章時間為主。\n2. 各種獎學金可以一起申請，只要符合申請資格，詳情請參閱各項獎學金申請細則。\n3. OSSS獎學金的申請時間約在學期初公告，申請詳情請參閱https://oia.ncku.edu.tw/p/404-1032-229932.php?Lang=zh-tw\n4. 每月15號核發獎學金，約一周後入帳。\n\n若有其他問題，建議向國際事務處(OIA)查詢。感謝您的提問！"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "費妮可 Nicole Manze De Eleuterio Fenita",
+    "datetime": "2025-03-20T13:26:20",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hello"
+      },
+      {
+        "role": "assistant",
+        "message": "Hello! How can I assist you today?"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "費妮可 Nicole Manze De Eleuterio Fenita",
+    "datetime": "2025-03-20T13:26:52",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hello"
+      },
+      {
+        "role": "assistant",
+        "message": "Hello! How can I assist you today?"
+      },
+      {
+        "role": "user",
+        "message": "A student with scholarship can apply for work permit ? "
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      }
+    ],
+    "target_turn": 2
+  },
+  {
+    "user": "費妮可 Nicole Manze De Eleuterio Fenita",
+    "datetime": "2025-03-20T13:27:03",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hello"
+      },
+      {
+        "role": "assistant",
+        "message": "Hello! How can I assist you today?"
+      },
+      {
+        "role": "user",
+        "message": "A student with scholarship can apply for work permit ? "
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Oky "
+      },
+      {
+        "role": "assistant",
+        "message": "Hello! How can I assist you today?"
+      }
+    ],
+    "target_turn": 4
+  },
+  {
+    "user": "費妮可 Nicole Manze De Eleuterio Fenita",
+    "datetime": "2025-03-20T13:55:39",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hello"
+      },
+      {
+        "role": "assistant",
+        "message": "Hello! How can I assist you today?"
+      },
+      {
+        "role": "user",
+        "message": "A student with scholarship can apply for work permit ? "
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "Oky "
+      },
+      {
+        "role": "assistant",
+        "message": "Hello! How can I assist you today?"
+      },
+      {
+        "role": "user",
+        "message": "When will they announce the distinguished scholarship results ?"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      }
+    ],
+    "target_turn": 6
+  },
+  {
+    "user": "酒井 泰地 TAICHI SAKAI",
+    "datetime": "2025-03-17T01:15:30",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "我沒有記錯的話，出國一次要30天內對不對？要不然再等6個月。\n但是我暑假應該回國，超過30天，有沒有能早一點加保的方法？"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "酒井 泰地 TAICHI SAKAI",
+    "datetime": "2025-03-17T16:39:59",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "我沒有記錯的話，出國一次要30天內對不對？要不然再等6個月。\n但是我暑假應該回國，超過30天，有沒有能早一點加保的方法？"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "好的👌謝謝喔～"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome."
+      }
+    ],
+    "target_turn": 2
+  },
+  {
+    "user": "采",
+    "datetime": "2025-03-14T15:14:38",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "i am vietnamese, am I suitable for this scholarship?"
+      },
+      {
+        "role": "assistant",
+        "message": "是的，您符合申請資格。凡為柬埔寨、越南、緬甸國籍者且申請就讀於合作學校之碩士班，並經學校錄取者，均可提出申請。"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "采",
+    "datetime": "2025-03-14T15:14:53",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "i am vietnamese, am I suitable for this scholarship?"
+      },
+      {
+        "role": "assistant",
+        "message": "是的，您符合申請資格。凡為柬埔寨、越南、緬甸國籍者且申請就讀於合作學校之碩士班，並經學校錄取者，均可提出申請。"
+      },
+      {
+        "role": "user",
+        "message": "It comes out like this"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      }
+    ],
+    "target_turn": 2
+  },
+  {
+    "user": "采",
+    "datetime": "2025-03-14T15:15:27",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "i am vietnamese, am I suitable for this scholarship?"
+      },
+      {
+        "role": "assistant",
+        "message": "是的，您符合申請資格。凡為柬埔寨、越南、緬甸國籍者且申請就讀於合作學校之碩士班，並經學校錄取者，均可提出申請。"
+      },
+      {
+        "role": "user",
+        "message": "It comes out like this"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "我聽說我的健保卡要更新。\n現在是在我爸爸的公司負擔我的健保卡，但是從2/28一定要在成功大學更新。\n現在我要做什麼？"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您聯繫國際事務處境外生與學人事務組，辦理健康保險轉出及轉入手續。持本校開立之健康保險轉出單至就讀學校辦理健康保險轉入事宜。具體步驟和所需文件可以向他們詳細詢問。"
+      }
+    ],
+    "target_turn": 4
+  },
+  {
+    "user": "采",
+    "datetime": "2025-03-14T15:16:00",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "i am vietnamese, am I suitable for this scholarship?"
+      },
+      {
+        "role": "assistant",
+        "message": "是的，您符合申請資格。凡為柬埔寨、越南、緬甸國籍者且申請就讀於合作學校之碩士班，並經學校錄取者，均可提出申請。"
+      },
+      {
+        "role": "user",
+        "message": "It comes out like this"
+      },
+      {
+        "role": "assistant",
+        "message": "建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "我聽說我的健保卡要更新。\n現在是在我爸爸的公司負擔我的健保卡，但是從2/28一定要在成功大學更新。\n現在我要做什麼？"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您聯繫國際事務處境外生與學人事務組，辦理健康保險轉出及轉入手續。持本校開立之健康保險轉出單至就讀學校辦理健康保險轉入事宜。具體步驟和所需文件可以向他們詳細詢問。"
+      },
+      {
+        "role": "user",
+        "message": "i am vietnamese, am I suitable for this scholarship?"
+      },
+      {
+        "role": "assistant",
+        "message": "Yes, as a Vietnamese national applying for a master's program at a partner school and being accepted by the school, you are eligible to apply for the 玉山志工社會福利慈善事業基金會-玉山培育東協傑出人才獎學金."
+      }
+    ],
+    "target_turn": 6
+  },
+  {
+    "user": "阮氏黃燕 NGUYEN THI HOANG YEN",
+    "datetime": "2025-03-20T16:10:57",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "I am a PhD student at medical college, I would like to borrow a graduation gown for a photo shoot, can you tell me who I need to contact to borrow it?"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您詢問國際事務處的工作人員。"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "阮氏黃燕 NGUYEN THI HOANG YEN",
+    "datetime": "2025-03-20T16:12:13",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "I am a PhD student at medical college, I would like to borrow a graduation gown for a photo shoot, can you tell me who I need to contact to borrow it?"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "我是醫學院的博士生，我想藉畢業服去拍照，你能告訴我需要聯絡誰嗎？"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您詢問國際事務處的工作人員。"
+      }
+    ],
+    "target_turn": 2
+  },
+  {
+    "user": "陳詳榮 CALVIN TING SIONG ING",
+    "datetime": "2025-03-17T08:18:31",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "我現在從家裡過去"
+      },
+      {
+        "role": "assistant",
+        "message": "請參考這個網址：https://nckumap.ncku.edu.tw/map.php"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "陳靜韻 CHAN CHING WAN",
+    "datetime": "2025-03-13T15:41:24",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "你好，想查詢申請工作證的問題"
+      },
+      {
+        "role": "assistant",
+        "message": "你好，申請工作證的問題可以參考以下步驟：\n\n1. 連結至申辦網：https://ezwp.wda.gov.tw\n2. 操作手冊：請參考附件一（http://oia.ncku.edu.tw/var/file/32/1032/img/661349079.pdf）。\n3. 申請新帳號時，注意「身分別」（請選擇外國留學生-學士、碩士或博士其中一種）。\n4. 登入並新增申請案件：\n   - 工作許可：首次申請或許可期間到期者請選此項。\n   - 補發許可：許可期間未到期但遺失卡片者請選此項。\n5. 輸入申請書資料，審查費可選ATM繳費或郵局繳費。\n6. 上傳檔案，包括學生證正反面、有有效期間之護照及ARC等文件。\n7. 送學校審核，隨時上系統查看案件狀態。\n\n如有其他疑問，建議聯絡勞動部客服電子信箱Email: ezwp@wda.gov.tw 或電話：0800-881-339。"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "陳靜韻 CHAN CHING WAN",
+    "datetime": "2025-03-13T15:42:04",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "你好，想查詢申請工作證的問題"
+      },
+      {
+        "role": "assistant",
+        "message": "你好，申請工作證的問題可以參考以下步驟：\n\n1. 連結至申辦網：https://ezwp.wda.gov.tw\n2. 操作手冊：請參考附件一（http://oia.ncku.edu.tw/var/file/32/1032/img/661349079.pdf）。\n3. 申請新帳號時，注意「身分別」（請選擇外國留學生-學士、碩士或博士其中一種）。\n4. 登入並新增申請案件：\n   - 工作許可：首次申請或許可期間到期者請選此項。\n   - 補發許可：許可期間未到期但遺失卡片者請選此項。\n5. 輸入申請書資料，審查費可選ATM繳費或郵局繳費。\n6. 上傳檔案，包括學生證正反面、有有效期間之護照及ARC等文件。\n7. 送學校審核，隨時上系統查看案件狀態。\n\n如有其他疑問，建議聯絡勞動部客服電子信箱Email: ezwp@wda.gov.tw 或電話：0800-881-339。"
+      },
+      {
+        "role": "user",
+        "message": "我是香港人，經海外聯招來成大，我不確定我應該要選擇僑生還是華裔學生呢？"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您詢問國際處的工作人員。"
+      }
+    ],
+    "target_turn": 2
+  },
+  {
+    "user": "馬德達 DEBAYAN MAZUMDAR",
+    "datetime": "2025-03-13T12:34:03",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hello, i have uploaded my degree certificate in the OSSS system. Thankyou for your help "
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome! If you have any further questions, feel free to ask."
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "馬德達 DEBAYAN MAZUMDAR",
+    "datetime": "2025-03-18T11:52:57",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hello, i have uploaded my degree certificate in the OSSS system. Thankyou for your help "
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome! If you have any further questions, feel free to ask."
+      },
+      {
+        "role": "user",
+        "message": "Hello 👋, may I ask when we would start getting the scholarship for this semester ?? "
+      },
+      {
+        "role": "assistant",
+        "message": "Hello 👋, the scholarship is typically issued around the 15th of each month and should be deposited approximately one week later."
+      }
+    ],
+    "target_turn": 2
+  },
+  {
+    "user": "馬德達 DEBAYAN MAZUMDAR",
+    "datetime": "2025-03-19T10:39:06",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hello, i have uploaded my degree certificate in the OSSS system. Thankyou for your help "
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome! If you have any further questions, feel free to ask."
+      },
+      {
+        "role": "user",
+        "message": "Hello 👋, may I ask when we would start getting the scholarship for this semester ?? "
+      },
+      {
+        "role": "assistant",
+        "message": "Hello 👋, the scholarship is typically issued around the 15th of each month and should be deposited approximately one week later."
+      },
+      {
+        "role": "user",
+        "message": "Hello I was applying for my work permit and the ministry of labour is asking me to make some corrections. Could you please help me understand what are they excatly looking for ?? (My ARC is on Job seeking VISA and I have applied for residence visa alredy)\n\nthe reply from the ministry is :經檢視居留事由為外國人停留居留及永久居留辦法第11條 (非就學)，請洽詢內政部移民署臺端是否符合外國學生辦法等相關法令規定變更為就學事由之外僑居留證。"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff for assistance with this matter."
+      }
+    ],
+    "target_turn": 4
+  },
+  {
+    "user": "馬德達 DEBAYAN MAZUMDAR",
+    "datetime": "2025-03-20T08:21:13",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hello, i have uploaded my degree certificate in the OSSS system. Thankyou for your help "
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome! If you have any further questions, feel free to ask."
+      },
+      {
+        "role": "user",
+        "message": "Hello 👋, may I ask when we would start getting the scholarship for this semester ?? "
+      },
+      {
+        "role": "assistant",
+        "message": "Hello 👋, the scholarship is typically issued around the 15th of each month and should be deposited approximately one week later."
+      },
+      {
+        "role": "user",
+        "message": "Hello I was applying for my work permit and the ministry of labour is asking me to make some corrections. Could you please help me understand what are they excatly looking for ?? (My ARC is on Job seeking VISA and I have applied for residence visa alredy)\n\nthe reply from the ministry is :經檢視居留事由為外國人停留居留及永久居留辦法第11條 (非就學)，請洽詢內政部移民署臺端是否符合外國學生辦法等相關法令規定變更為就學事由之外僑居留證。"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff for assistance with this matter."
+      },
+      {
+        "role": "user",
+        "message": "Ahhhh understood thankyou 😊"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome!"
+      }
+    ],
+    "target_turn": 6
+  },
+  {
+    "user": "馬德達 DEBAYAN MAZUMDAR",
+    "datetime": "2025-03-20T08:24:27",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hello, i have uploaded my degree certificate in the OSSS system. Thankyou for your help "
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome! If you have any further questions, feel free to ask."
+      },
+      {
+        "role": "user",
+        "message": "Hello 👋, may I ask when we would start getting the scholarship for this semester ?? "
+      },
+      {
+        "role": "assistant",
+        "message": "Hello 👋, the scholarship is typically issued around the 15th of each month and should be deposited approximately one week later."
+      },
+      {
+        "role": "user",
+        "message": "Hello I was applying for my work permit and the ministry of labour is asking me to make some corrections. Could you please help me understand what are they excatly looking for ?? (My ARC is on Job seeking VISA and I have applied for residence visa alredy)\n\nthe reply from the ministry is :經檢視居留事由為外國人停留居留及永久居留辦法第11條 (非就學)，請洽詢內政部移民署臺端是否符合外國學生辦法等相關法令規定變更為就學事由之外僑居留證。"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff for assistance with this matter."
+      },
+      {
+        "role": "user",
+        "message": "Ahhhh understood thankyou 😊"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome!"
+      },
+      {
+        "role": "user",
+        "message": "Is there that anything that I need to do for this like inform the professor to submi the proof or something cause i am pretty sure my professor might have been busy and have caused the delay unintentionally…."
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff for assistance with this matter."
+      }
+    ],
+    "target_turn": 8
+  },
+  {
+    "user": "馬德達 DEBAYAN MAZUMDAR",
+    "datetime": "2025-03-20T08:25:01",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hello, i have uploaded my degree certificate in the OSSS system. Thankyou for your help "
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome! If you have any further questions, feel free to ask."
+      },
+      {
+        "role": "user",
+        "message": "Hello 👋, may I ask when we would start getting the scholarship for this semester ?? "
+      },
+      {
+        "role": "assistant",
+        "message": "Hello 👋, the scholarship is typically issued around the 15th of each month and should be deposited approximately one week later."
+      },
+      {
+        "role": "user",
+        "message": "Hello I was applying for my work permit and the ministry of labour is asking me to make some corrections. Could you please help me understand what are they excatly looking for ?? (My ARC is on Job seeking VISA and I have applied for residence visa alredy)\n\nthe reply from the ministry is :經檢視居留事由為外國人停留居留及永久居留辦法第11條 (非就學)，請洽詢內政部移民署臺端是否符合外國學生辦法等相關法令規定變更為就學事由之外僑居留證。"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff for assistance with this matter."
+      },
+      {
+        "role": "user",
+        "message": "Ahhhh understood thankyou 😊"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome!"
+      },
+      {
+        "role": "user",
+        "message": "Is there that anything that I need to do for this like inform the professor to submi the proof or something cause i am pretty sure my professor might have been busy and have caused the delay unintentionally…."
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff for assistance with this matter."
+      },
+      {
+        "role": "user",
+        "message": "and does that mean that i will be receiving the two months scholarship together in the next month ?? "
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff for clarification on whether you will be receiving the two months' scholarship together in the next month."
+      }
+    ],
+    "target_turn": 10
+  },
+  {
+    "user": "馬德達 DEBAYAN MAZUMDAR",
+    "datetime": "2025-03-20T08:38:06",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hello, i have uploaded my degree certificate in the OSSS system. Thankyou for your help "
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome! If you have any further questions, feel free to ask."
+      },
+      {
+        "role": "user",
+        "message": "Hello 👋, may I ask when we would start getting the scholarship for this semester ?? "
+      },
+      {
+        "role": "assistant",
+        "message": "Hello 👋, the scholarship is typically issued around the 15th of each month and should be deposited approximately one week later."
+      },
+      {
+        "role": "user",
+        "message": "Hello I was applying for my work permit and the ministry of labour is asking me to make some corrections. Could you please help me understand what are they excatly looking for ?? (My ARC is on Job seeking VISA and I have applied for residence visa alredy)\n\nthe reply from the ministry is :經檢視居留事由為外國人停留居留及永久居留辦法第11條 (非就學)，請洽詢內政部移民署臺端是否符合外國學生辦法等相關法令規定變更為就學事由之外僑居留證。"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff for assistance with this matter."
+      },
+      {
+        "role": "user",
+        "message": "Ahhhh understood thankyou 😊"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome!"
+      },
+      {
+        "role": "user",
+        "message": "Is there that anything that I need to do for this like inform the professor to submi the proof or something cause i am pretty sure my professor might have been busy and have caused the delay unintentionally…."
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff for assistance with this matter."
+      },
+      {
+        "role": "user",
+        "message": "and does that mean that i will be receiving the two months scholarship together in the next month ?? "
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff for clarification on whether you will be receiving the two months' scholarship together in the next month."
+      },
+      {
+        "role": "user",
+        "message": "Thankyou for your help 👍"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome!"
+      }
+    ],
+    "target_turn": 12
+  },
+  {
+    "user": "馬德達 DEBAYAN MAZUMDAR",
+    "datetime": "2025-03-20T13:53:11",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hello, i have uploaded my degree certificate in the OSSS system. Thankyou for your help "
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome! If you have any further questions, feel free to ask."
+      },
+      {
+        "role": "user",
+        "message": "Hello 👋, may I ask when we would start getting the scholarship for this semester ?? "
+      },
+      {
+        "role": "assistant",
+        "message": "Hello 👋, the scholarship is typically issued around the 15th of each month and should be deposited approximately one week later."
+      },
+      {
+        "role": "user",
+        "message": "Hello I was applying for my work permit and the ministry of labour is asking me to make some corrections. Could you please help me understand what are they excatly looking for ?? (My ARC is on Job seeking VISA and I have applied for residence visa alredy)\n\nthe reply from the ministry is :經檢視居留事由為外國人停留居留及永久居留辦法第11條 (非就學)，請洽詢內政部移民署臺端是否符合外國學生辦法等相關法令規定變更為就學事由之外僑居留證。"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff for assistance with this matter."
+      },
+      {
+        "role": "user",
+        "message": "Ahhhh understood thankyou 😊"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome!"
+      },
+      {
+        "role": "user",
+        "message": "Is there that anything that I need to do for this like inform the professor to submi the proof or something cause i am pretty sure my professor might have been busy and have caused the delay unintentionally…."
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff for assistance with this matter."
+      },
+      {
+        "role": "user",
+        "message": "and does that mean that i will be receiving the two months scholarship together in the next month ?? "
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff for clarification on whether you will be receiving the two months' scholarship together in the next month."
+      },
+      {
+        "role": "user",
+        "message": "Thankyou for your help 👍"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome!"
+      },
+      {
+        "role": "user",
+        "message": "Hello today I got my resident Visa "
+      },
+      {
+        "role": "assistant",
+        "message": "Hello! Congratulations on getting your resident visa. Please make sure to apply for your Alien Resident Certificate (ARC) within 30 days of entering Taiwan. You can do this online at https://coa.immigration.gov.tw/coa-frontend/student/entry. If you have any questions, it is recommended to ask the International Office staff."
+      }
+    ],
+    "target_turn": 14
+  },
+  {
+    "user": "馬德達 DEBAYAN MAZUMDAR",
+    "datetime": "2025-03-20T13:55:42",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hello, i have uploaded my degree certificate in the OSSS system. Thankyou for your help "
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome! If you have any further questions, feel free to ask."
+      },
+      {
+        "role": "user",
+        "message": "Hello 👋, may I ask when we would start getting the scholarship for this semester ?? "
+      },
+      {
+        "role": "assistant",
+        "message": "Hello 👋, the scholarship is typically issued around the 15th of each month and should be deposited approximately one week later."
+      },
+      {
+        "role": "user",
+        "message": "Hello I was applying for my work permit and the ministry of labour is asking me to make some corrections. Could you please help me understand what are they excatly looking for ?? (My ARC is on Job seeking VISA and I have applied for residence visa alredy)\n\nthe reply from the ministry is :經檢視居留事由為外國人停留居留及永久居留辦法第11條 (非就學)，請洽詢內政部移民署臺端是否符合外國學生辦法等相關法令規定變更為就學事由之外僑居留證。"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff for assistance with this matter."
+      },
+      {
+        "role": "user",
+        "message": "Ahhhh understood thankyou 😊"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome!"
+      },
+      {
+        "role": "user",
+        "message": "Is there that anything that I need to do for this like inform the professor to submi the proof or something cause i am pretty sure my professor might have been busy and have caused the delay unintentionally…."
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff for assistance with this matter."
+      },
+      {
+        "role": "user",
+        "message": "and does that mean that i will be receiving the two months scholarship together in the next month ?? "
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff for clarification on whether you will be receiving the two months' scholarship together in the next month."
+      },
+      {
+        "role": "user",
+        "message": "Thankyou for your help 👍"
+      },
+      {
+        "role": "assistant",
+        "message": "You're welcome!"
+      },
+      {
+        "role": "user",
+        "message": "Hello today I got my resident Visa "
+      },
+      {
+        "role": "assistant",
+        "message": "Hello! Congratulations on getting your resident visa. Please make sure to apply for your Alien Resident Certificate (ARC) within 30 days of entering Taiwan. You can do this online at https://coa.immigration.gov.tw/coa-frontend/student/entry. If you have any questions, it is recommended to ask the International Office staff."
+      },
+      {
+        "role": "user",
+        "message": "and I wish to apply for my ARC (earlier I had an ARC with the purpose of Job seeking). can you please tell me if i need to apply for a fresh ARC (Option 1: First Time ARC application, on the blue list ) or change the ARC information (Option 4 on the blue list)."
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      }
+    ],
+    "target_turn": 16
+  },
+  {
+    "user": "馬莉莉 LILI LORENSIA MALLU",
+    "datetime": "2025-03-14T14:54:29",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hello, which division should I contact to inquire whether our university has a template for a business card? Thank you "
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "黃慧珍 JOSEPHINE AURELIA WIDODO",
+    "datetime": "2025-03-21T12:34:21",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hello I wanna ask about the master’s result (overseas) \nWhen the result will be given? Thank you (Thanks)"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff."
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "黃欣琳 SHALOM WONG SHIN LIN",
+    "datetime": "2025-03-17T20:02:11",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "您好，本人是馬來西亞僑生🇲🇾\n距離我做居留證已經過了三個月，在此想詢問一下，我的健康保險卡可以領取了嗎？\n\n以下是本人的個人資料\n學號：I54135317\n姓名：黃欣琳"
+      },
+      {
+        "role": "assistant",
+        "message": "您好，您的健康保險卡是否可以領取建議您詢問國際事務處的工作人員。"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "黃治椲 DANIEL NG",
+    "datetime": "2025-03-25T16:35:36",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "您好 我剛收到獲獎的通知請問一定要出席頒獎典禮嗎？"
+      },
+      {
+        "role": "assistant",
+        "message": "建議您詢問國際事務處的工作人員。"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "黄鑫璞 Raymond Wangsa Putra",
+    "datetime": "2025-03-23T21:43:57",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hi team OSSS, i attended Cultural Visit: KARMA X National Palace Museum provided by OSSS\n\nturn out, on the day, my professor require me to do presentation, is there any permission or letter that OSSS may provide?\n\nthanks"
+      },
+      {
+        "role": "assistant",
+        "message": "It is recommended to ask the International Office staff for assistance with this matter."
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "龍秀英 Sarah Sabal",
+    "datetime": "2025-03-19T20:24:41",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "謝謝您。"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "龍豪恩 Alonso Britos Joel Elias",
+    "datetime": "2025-03-26T14:31:27",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Is there any way to waive this? I'm not taking any course, I don't understand why I need to pay for credit fees "
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的範疇內，建議詢問國際事務處的工作人員。"
+      }
+    ],
+    "target_turn": 0
+  },
+  {
+    "user": "龍豪恩 Alonso Britos Joel Elias",
+    "datetime": "2025-03-26T15:42:54",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Is there any way to waive this? I'm not taking any course, I don't understand why I need to pay for credit fees "
+      },
+      {
+        "role": "assistant",
+        "message": "這不在我的範疇內，建議詢問國際事務處的工作人員。"
+      },
+      {
+        "role": "user",
+        "message": "Okay thank you for your answer"
+      },
+      {
+        "role": "assistant",
+        "message": "不客氣。"
+      }
+    ],
+    "target_turn": 2
+  },
+  {
+    "user": "度山曼 Abdul Samad",
+    "datetime": "2025-03-27T03:50:10",
+    "conversation": [
+      {
+        "role": "user",
+        "message": "Hi\nWhen scholarship announcement will come?"
+      },
+      {
+        "role": "assistant",
+        "message": "Hello. It is recommended to ask the International Office staff for information about scholarship announcements."
+      }
+    ],
+    "target_turn": 0
+  }
+]
